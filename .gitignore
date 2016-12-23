@@ -1,0 +1,13 @@
+.DS_Store
+
+*.class
+/bin/
+
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+*.tsv
+*.jar
+/stanford-corenlp-*/*
