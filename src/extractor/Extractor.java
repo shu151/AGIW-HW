@@ -1,11 +1,12 @@
 package extractor;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
-import org.w3c.dom.CharacterData;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
@@ -13,12 +14,19 @@ import org.w3c.dom.NodeList;
 import parser.XMLPars;
 import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
 import edu.stanford.nlp.pipeline.Annotation;
+import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.semgraph.SemanticGraph;
 import edu.stanford.nlp.semgraph.SemanticGraphCoreAnnotations;
 import edu.stanford.nlp.util.CoreMap;
+import edu.stanford.nlp.util.PropertiesUtils;
 
 
-public class ExtractorBySuchAs extends ExtractorByListIdentifier{
+public class Extractor {
+	private StanfordCoreNLP pipeline;
+	public Extractor() {
+		this.pipeline = new StanfordCoreNLP(
+				PropertiesUtils.asProperties("annotators", "tokenize, ssplit, pos, lemma, ner, parse"));
+	}
 	/**
 	 * governor2dependents restituisce una mappa per una specifica dipendenza dove la chiave è 
 	 * un governor mentre i valori aono una lista di dependent di quel governor
@@ -62,6 +70,7 @@ public class ExtractorBySuchAs extends ExtractorByListIdentifier{
 	 * @return finalPosition: la posizione minore di un governor e delle sue dipendendenze (di un certo tipo)
 	 */
 	private int lowerPositionDependent(NodeList nodes, Element governor, String depType) {
+//		System.out.println("KKKK"+governor.getTextContent());
 		int finalPosition = Integer.parseInt(governor.getAttributes().getNamedItem("idx").getNodeValue());
 		Map<Element, List<Element>> governor2dependentsByCompound = governor2dependents(nodes, depType);
 		for (Element el : governor2dependentsByCompound.keySet()) {
@@ -143,14 +152,19 @@ public class ExtractorBySuchAs extends ExtractorByListIdentifier{
 
 			int elementdepPosition = Integer.parseInt(previousElementDependent.getAttributes().getNamedItem("idx").getNodeValue());
 			int elementgovPosition = Integer.parseInt(previousElementGovernor.getAttributes().getNamedItem("idx").getNodeValue());
-			
+//			System.out.println("EL DEP: "+previousElementDependent.getTextContent());
+//			System.out.println("EL GOV: "+previousElementGovernor.getTextContent());
 			boolean sameNodeGovernor = inputPosition==elementgovPosition;
 			boolean sameNodeDependent = inputPosition==elementdepPosition;
 
-			if(sameNodeGovernor && (inputPosition>elementdepPosition))
+			if(sameNodeGovernor && (inputPosition>elementdepPosition)){
 				previousElements.add(previousElementDependent);
-			if(sameNodeDependent && (inputPosition>elementgovPosition))
+				System.out.println("EL PREC: "+previousElementDependent.getTextContent());
+			}
+			if(sameNodeDependent && (inputPosition>elementgovPosition)){
 				previousElements.add(previousElementGovernor);
+				System.out.println("EL PREC2: "+previousElementGovernor.getTextContent());
+			}
 		}
 		return previousElements;
 	}
@@ -210,9 +224,54 @@ public class ExtractorBySuchAs extends ExtractorByListIdentifier{
 
 		return nextElements;
 	}
-	@Override
-	// ritorna lista contentente n valori: frase, n-1 fatti
+	/**
+	 * startPositionNsubj ritorna dato un certo elemento(parola) la posizione del suo soggetto
+	 * @param nodes: lista delle dipendenze in formato XML
+	 * @param finalElement: elemento di partenza da dove cercare il suo soggetto(nsubj)
+	 * @return startPosition: posizione del soggetto
+	 */
+	private int startPositionNsubj(NodeList nodes, Element finalElement) {
+		int startPosition = 0;
+		for (Element el : getAllPreviousElements(nodes, finalElement)) {
+			for (Element gov : governor2dependents(nodes, "nsubj").keySet()) {
+				if (finalElement.getTextContent().equals(gov.getTextContent())
+						&& finalElement.getAttributes().getNamedItem("idx").getNodeValue().equals(gov.getAttributes().getNamedItem("idx").getNodeValue())){
+					Element dep = governor2dependents(nodes, "nsubj").get(gov).get(0);
+					startPosition = Integer.parseInt(dep.getAttributes().getNamedItem("idx").getNodeValue());
+				}
+				else if (el.getTextContent().equals(gov.getTextContent())
+						&& el.getAttributes().getNamedItem("idx").getNodeValue().equals(gov.getAttributes().getNamedItem("idx").getNodeValue())){
+					Element dep = governor2dependents(nodes, "nsubj").get(gov).get(0);
+					startPosition = Integer.parseInt(dep.getAttributes().getNamedItem("idx").getNodeValue());
+					System.out.println("CIARRIVA");
+				}
+				else{
+					startPosition = startPositionNsubj(nodes,el);
+					System.out.println("CIARRIVA 2");
+				}
+			}
+		}
+		return startPosition;
+	}
+	/**
+	 * depTypeNmodList restituisce una lista delle tipologie di nmod presenti nella frase
+	 * @param nodes: lista delle dipendenze in formato XML
+	 * @return depType: lista delle tipologie di nmod presenti nella frase
+	 */
+	private Set<String> depTypeNmodList(NodeList nodes) {
+		Set<String> depType = new HashSet<>();
+		for (int i = 0; i < nodes.getLength(); i++) {
+			Node currentNode = nodes.item(i);
+			String dep_type = currentNode.getAttributes().getNamedItem("type").getNodeValue();
+			if (dep_type.contains("nmod")){
+				depType.add(dep_type);
+			}
+		}
+		return depType;
+	}
+		
 	public List<String> extractFacts(String phrase) {
+		List<String> relations = new ArrayList<>();
 		String dependenciesXML=null;
 		Annotation document = new Annotation(phrase);
 		pipeline.annotate(document);
@@ -231,52 +290,68 @@ public class ExtractorBySuchAs extends ExtractorByListIdentifier{
 			NodeList nodes = x.getNodesByTag("dep");
 			int finalPosition = 0;
 			Element finalElement = null;
-			Map<Element, List<Element>> governor2dependentsByNmod = governor2dependents(nodes, "nmod:such_as");
-			// ogni governor di un nmod va analizzato come frase
-			for (Element governor : governor2dependentsByNmod.keySet()) {
-				List<Element> dependents = governor2dependentsByNmod.get(governor);
-				finalPosition = lowerPosition(dependents);
-				System.out.println("primakosafai "+finalPosition);
-				//verificare che finalElement è diverso da null?
-				finalElement = getGovernorByPosition(nodes, finalPosition);
-				finalPosition = lowerPositionDependent(nodes, finalElement, "compound");
-				System.out.println("poikosafai "+finalPosition);
-				
-				System.out.println("partenza: "+finalElement.getTextContent());
-				int startPosition = 0;
-				for (Element el : getAllPreviousElements(nodes, finalElement)) {
-					for (Element gov : governor2dependents(nodes, "nsubj").keySet()) {
-						if (el.getTextContent().equals(gov.getTextContent())
-								&& el.getAttributes().getNamedItem("idx").getNodeValue().equals(gov.getAttributes().getNamedItem("idx").getNodeValue())){
-							Element dep = governor2dependents(nodes, "nsubj").get(gov).get(0);
-							startPosition = Integer.parseInt(dep.getAttributes().getNamedItem("idx").getNodeValue());
-						}
-					}
-					System.out.println(el.getTextContent());
+			Set<String> typeNmod = depTypeNmodList(nodes);
+			for (String type : typeNmod) {
+				Map<Element, List<Element>> governor2dependentsByNmod = governor2dependents(nodes, type);
+				for(Element e : governor2dependentsByNmod.keySet()){
+					System.out.println("VEDIAMO "+e.getTextContent());
 				}
-				System.out.println(startPosition);
-				System.out.println("fine");
-				
-				// stampa frase
-				for(int i = startPosition+1; i<finalPosition; i++){
-					for (int j = 0; j < nodes.getLength(); j++) {
-						Element currentElement = (Element) nodes.item(j);
-						if(i==Integer.parseInt(currentElement.getElementsByTagName("governor").item(0).getAttributes().getNamedItem("idx").getNodeValue())){
-							System.out.println(currentElement.getElementsByTagName("governor").item(0).getTextContent());
-							break;
+				// ogni governor di un nmod va analizzato come frase
+				for (Element governor : governor2dependentsByNmod.keySet()) {
+					List<Element> dependents = governor2dependentsByNmod.get(governor);
+					if(dependents.size()>1){
+						for(Element e : dependents){
+							System.out.println("VEDIAMO DEPEND "+e.getTextContent());
 						}
-						else if(i==Integer.parseInt(currentElement.getElementsByTagName("dependent").item(0).getAttributes().getNamedItem("idx").getNodeValue())){
-							System.out.println(currentElement.getElementsByTagName("dependent").item(0).getTextContent());
-							break;
+						finalPosition = lowerPosition(dependents);
+						System.out.println("POSIZIONE PROVVISORIA "+finalPosition);
+						//verificare che finalElement è diverso da null?
+						finalElement = getGovernorByPosition(nodes, finalPosition);
+						if (finalElement!=null){
+							finalPosition = lowerPositionDependent(nodes, finalElement, "compound");
+							System.out.println("ELEMENTO PROVVISORIO: "+finalElement.getTextContent());
 						}
+						System.out.println("ggg "+governor.getTextContent());
+						int startPosition = startPositionNsubj(nodes, governor);
+						System.out.println("POSIZIONE INIZIALE: "+startPosition);
+						System.out.println("POSIZIONE FINALE: "+finalPosition);
+						System.out.println("fine");
+						
+						// stampa frase
+						System.out.println("INIZIO FRASE");
+						List<String> relationProv = new ArrayList<>();
+						for(int i = startPosition+1; i<finalPosition; i++){
+							for (int j = 0; j < nodes.getLength(); j++) {
+								Element currentElement = (Element) nodes.item(j);
+								if(i==Integer.parseInt(currentElement.getElementsByTagName("governor").item(0).getAttributes().getNamedItem("idx").getNodeValue())){
+//									System.out.println(currentElement.getElementsByTagName("governor").item(0).getTextContent());
+									relationProv.add(currentElement.getElementsByTagName("governor").item(0).getTextContent());
+									break;
+								}
+								else if(i==Integer.parseInt(currentElement.getElementsByTagName("dependent").item(0).getAttributes().getNamedItem("idx").getNodeValue())){
+//									System.out.println(currentElement.getElementsByTagName("dependent").item(0).getTextContent());
+									relationProv.add(currentElement.getElementsByTagName("dependent").item(0).getTextContent());
+									break;
+								}
+							}
+						}
+						String relation = "";
+						for (String word : relationProv) {
+							relation = relation+word+" ";
+						}
+						
+						relations.add(relation);
+						System.out.println(relation);
+						System.out.println("FINE FRASE");
 					}
 				}
+				System.out.println("FINE FOR");
 			}
 		}
 		catch (Exception e) {
 			e.printStackTrace();
 			return null;
 		}
-		return null;
+		return relations;
 	}
 }
