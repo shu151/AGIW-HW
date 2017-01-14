@@ -1,3 +1,4 @@
+package scoreGetter;
 
 import static org.junit.Assert.*;
 
@@ -5,13 +6,13 @@ import org.junit.Before;
 
 import org.junit.Test;
 
-import prefilter.ScoreGetter;
+import prefilter.PhraseScoreGetter;
 
 
 
 public class ScoreGetterTest {
 
-	private ScoreGetter scoreGetter;
+	private PhraseScoreGetter scoreGetter;
 		
 	private String withListIdentifierSuchAs;
 	private String withListIdentifierIncluding;
@@ -28,6 +29,7 @@ public class ScoreGetterTest {
 	
 	private String withoutThreeEntitiesPattern;
 	private String withThreeEntitiesPattern;
+	private String withThreeEntitiesPattern1;
 
 	private String withListQuantifier;
 	private String withoutListQuantifier;
@@ -44,7 +46,7 @@ public class ScoreGetterTest {
 	@Before
 	public void setUp() throws Exception {
 
-		this.scoreGetter= new ScoreGetter();
+		this.scoreGetter= new PhraseScoreGetter();
 		
 		this.withListIdentifierSuchAs= "mario met some girls such as [[Maria|m.0bkzt]] and [[Giulia|m.0bkzt]]";
 		this.withListIdentifierIncluding= "mario met some girls including [[Maria|m.0bkzt]] and [[Giulia|m.0bkzt]]";
@@ -65,6 +67,8 @@ public class ScoreGetterTest {
 				+ " [[S-band|m.02pbwv]] radio systems , referred to as Channel A and B , or Chain A and B. "
 				+ "Channel A was the sole path for an experiment to measure wind speeds by studying tiny"
 				+ " frequency changes caused by [[Christiaan_Huygens|m.0bkzt]] 's motion ." ;
+		
+		this.withThreeEntitiesPattern1="[[Obama|m.03rlt]] and [[Trump|m.12231]] is a supporter of Lakers , [[Cavalliers|m.03rlt]] and Bulls.";
 
 		this.withoutThreeEntitiesPattern="Irvin worked on the [[Space_probe|m.02q54c9]] 's descent "
 				+ "control sub-system under contract to [[Martin-Baker_Space_Systems|m.022kbb]] .";
@@ -105,6 +109,7 @@ public class ScoreGetterTest {
 	@Test
 	public void containsAtLeastThreeEntitiesPatternTest() {
 
+		assertEquals(1,this.scoreGetter.containsListOfThreeElementsPattern(this.withThreeEntitiesPattern1));
 		assertEquals(1,this.scoreGetter.containsListOfThreeElementsPattern(this.withThreeEntitiesPattern));
 		assertEquals(0,this.scoreGetter.containsListOfThreeElementsPattern(this.withoutThreeEntitiesPattern));
 	}
