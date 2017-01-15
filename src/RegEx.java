@@ -29,7 +29,7 @@ public class RegEx {
 	    	if(elem[3] != null)
 	    		el = elem[3];
 	    	if(!java.util.regex.Pattern.matches(".*such as.*", el))
-	    		f.writeFile(el + "\n");
+	    		f.writeFile(el + "\n","outfilename");
 	    		//System.out.println(el + "\n");//count++;
 	    	
 	    	//System.out.println("ciao");

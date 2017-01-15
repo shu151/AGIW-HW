@@ -10,7 +10,7 @@ import com.sun.xml.internal.ws.util.StringUtils;
 
 public class PhraseSplitter {
 
-	public Pattern entity_regex = Pattern.compile("\\[\\[[A-Za-z0-9\\p{Punct}]+\\|m\\.[a-z0-9\\p{Punct}]+\\]\\]");
+	private Pattern entity_regex = Pattern.compile("\\[\\[[A-Za-z0-9\\p{Punct}]+\\|m\\.[a-z0-9\\p{Punct}]+\\]\\]");
 	//This method will return a list which contains: the phrase, then the number n of entities, then the
 	//n entities and following the n snippets of phrase between the entities
 	public List<String> splitPhrase(String phrase){

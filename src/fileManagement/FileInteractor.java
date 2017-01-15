@@ -28,8 +28,8 @@ public class FileInteractor {
 		return new InputStreamReader(new FileInputStream(new File(absolutePath)), "UTF-8");
 	}
 	
-	public void writeFile(String toWrite) throws UnsupportedEncodingException, FileNotFoundException, IOException{
-		try(FileWriter fw = new FileWriter("outfilename", true);
+	public void writeFile(String toWrite, String fileName) throws UnsupportedEncodingException, FileNotFoundException, IOException{
+		try(FileWriter fw = new FileWriter(fileName, true);
 			    BufferedWriter bw = new BufferedWriter(fw);
 			    PrintWriter out = new PrintWriter(bw))
 			{
