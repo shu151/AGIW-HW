@@ -6,7 +6,7 @@ import java.io.UnsupportedEncodingException;
 import java.util.List;
 import java.util.concurrent.Callable;
 
-import parser.TSVSentencesExtractor;
+import parser.TSVSentencesUtility;
 
 /*
  * Classe che prese le frasi del file input le divide in probabili frasi lista inserendole in un file 
@@ -19,7 +19,7 @@ public class ListPhrasesFilter implements Callable<Integer> {
 
 	private PhraseScoreGetter scoreGetter;
 
-	private TSVSentencesExtractor TSVSentencesExtractor;
+	private TSVSentencesUtility tSVSentencesUtility;
 
 	private boolean metricsUtilityOn;
 
@@ -31,7 +31,7 @@ public class ListPhrasesFilter implements Callable<Integer> {
 
 		this.scoreGetter= new PhraseScoreGetter();
 
-		this.TSVSentencesExtractor=new TSVSentencesExtractor();
+		this.tSVSentencesUtility=new TSVSentencesUtility();
 
 		this.metricsUtilityOn=metricsUtilityOn;
 	}
@@ -43,7 +43,7 @@ public class ListPhrasesFilter implements Callable<Integer> {
 			PrintWriter acceptedWriter = new PrintWriter(this.pathToAcceptedSentencesFile, "UTF-8");
 			PrintWriter refusedWriter = new PrintWriter(this.pathToRefusedSentencesFile, "UTF-8");
 
-			List<String[]> allRows = this.TSVSentencesExtractor.getAllSentencesFromTSV(this.pathToSentencesFile);
+			List<String[]> allRows = this.tSVSentencesUtility.getAllSentencesFromTSV(this.pathToSentencesFile);
 
 			double threashold=this.scoreGetter.getThreashold();
 

@@ -13,7 +13,7 @@ import java.util.concurrent.Executors;
 
 import evaluatingUtility.ListAndNotListCounter;
 import evaluatingUtility.PrecisionFalloutRecallGetter;
-import parser.TSVSentencesExtractor;
+import parser.TSVSentencesUtility;
 /**
  * classe che si occupa del riconoscimento delle frasi che probabilmente sono liste
  */
@@ -126,7 +126,7 @@ public class ParallelFilter{
 		try {
 
 			BufferedWriter out = new BufferedWriter(new FileWriter("Accepted.tsv",true));
-			TSVSentencesExtractor tex= new TSVSentencesExtractor();
+			TSVSentencesUtility tex= new TSVSentencesUtility();
 
 			List<String[]> allRowsAccepted = tex.getAllSentencesFromTSV("accepted"+(i+1)+".tsv");
 

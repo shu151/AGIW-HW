@@ -3,9 +3,9 @@ package phrasesExpansion;
 import java.io.*;
 
 import extractor.Extractor;
+import extractor.FactsListExtractor;
 import fileManagement.FileInteractor;
-import parser.ListSentencesFilter;
-import parser.TSVSentencesExtractor;
+import parser.TSVSentencesUtility;
 import prefilter.ParallelFilter;
 import relationIdentifier.RelationalIdentifier;
 import splitter.PhraseSplitter;
@@ -22,38 +22,16 @@ public class mainPhrasesAnalysis {
 		ParallelFilter pf = new ParallelFilter();
 		pf.filterSentences(pathToInputFile,useMetrics);
 		
-		accepted();
+		FactsListExtractor fe= new FactsListExtractor();
+		fe.do_extractFacts();
 //		refused();
 	}
-	private static void accepted() throws UnsupportedEncodingException, FileNotFoundException {
-		List<List<String>>result=new LinkedList<List<String>>();
-		ListSentencesFilter ls = new ListSentencesFilter();
-		TSVSentencesExtractor t = new TSVSentencesExtractor();
-		List<String[]> allRows = t.getAllSentencesFromTSV("Accepted.tsv");
-		Extractor eb = new Extractor();
-		FileInteractor f = new FileInteractor();
-		RelationalIdentifier ri = new RelationalIdentifier();
-		for(String[] phrase : allRows){
-			try {
-				List<String> filtPhraseWithEntities = ls.removeNoWordContent(phrase[3]);
-				List<String> ar = eb.extractFacts(filtPhraseWithEntities);
-				result.add(ar);
-//				for(String relation : ar){
-//					f.writeFile(relation,"acceptedPhrase2");
-//					f.writeFile(ri.isRelational(relation)+"\n","acceptedPhrase2");
-//				}
-			}
-			catch(Exception e){
-				e.printStackTrace();
-			}
-		}
-	}
+
 	// da vedere
 	private static void refused() throws UnsupportedEncodingException, FileNotFoundException {
 		List<List<String>>result=new LinkedList<List<String>>();
-		ListSentencesFilter ls = new ListSentencesFilter();
-		TSVSentencesExtractor t = new TSVSentencesExtractor();
-		List<String[]> allRows = t.getAllSentencesFromTSV("Refused.tsv");
+		TSVSentencesUtility tSVSentencesUtility = new TSVSentencesUtility();
+		List<String[]> allRows = tSVSentencesUtility.getAllSentencesFromTSV("Refused.tsv");
 		Extractor eb = new Extractor();
 		FileInteractor f = new FileInteractor();
 		RelationalIdentifier ri = new RelationalIdentifier();

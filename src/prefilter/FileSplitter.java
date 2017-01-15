@@ -4,14 +4,11 @@ import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.DataInputStream;
-import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 
 /*
  * Splitta un file in più file, tenendo conto del numero di thread che verranno creati
@@ -40,7 +37,6 @@ public class FileSplitter {
 
 			// Reading file and getting no. of files to be generated  
 			String inputfile = this.pathToFileTosplit; //  Source File Name.  
-			File file = new File(inputfile);  
 
 			int fileLinesCount = 0;  
 

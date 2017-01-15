@@ -8,6 +8,5 @@
 
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
-*.tsv
 *.jar
 /stanford-corenlp-*/*

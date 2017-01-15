@@ -1,5 +1,5 @@
 package parser;
-import java.io.IOException;
+
 import java.io.StringReader;
 
 import javax.xml.parsers.DocumentBuilder;
@@ -9,15 +9,14 @@ import javax.xml.parsers.ParserConfigurationException;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 import org.xml.sax.InputSource;
-import org.xml.sax.SAXException;
 
 
-public class XMLPars {
+public class XMLParser {
 	private DocumentBuilderFactory dbf;
 	private DocumentBuilder db;
 	private InputSource is;
 	
-	public XMLPars(String XMLString){
+	public XMLParser(String XMLString){
 	    this.dbf =DocumentBuilderFactory.newInstance();
 	    
 	    try {

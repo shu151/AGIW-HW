@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.UnsupportedEncodingException;
 import java.util.List;
 
-import parser.TSVSentencesExtractor;
+import parser.TSVSentencesUtility;
 
 public class ListAndNotListCounter {
 
@@ -20,7 +20,7 @@ public class ListAndNotListCounter {
 
 		int listCount=0;
 
-		TSVSentencesExtractor t= new TSVSentencesExtractor();
+		TSVSentencesUtility t= new TSVSentencesUtility();
 		List<String[]> allRows;
 		
 		try {
@@ -50,7 +50,7 @@ public class ListAndNotListCounter {
 
 		int notListCount=0;
 
-		TSVSentencesExtractor t= new TSVSentencesExtractor();
+		TSVSentencesUtility t= new TSVSentencesUtility();
 
 		List<String[]> allRows;
 		try {
