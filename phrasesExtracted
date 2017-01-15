@@ -1,0 +1,1620 @@
+Frase Iniziale: Mario married some famous women such as Michelle and Claudia .
+[[Mario|m.03rlt]]
+[[Michelle|m.03rlt]]
+[[Claudia|m.03rlt]]
+Frase relazionale: married some famous women such as 
+Fatto 1: [[Mario|m.03rlt]] married some famous women such as  [[Michelle|m.03rlt]]
+Fatto 2: [[Mario|m.03rlt]] married some famous women such as  [[Claudia|m.03rlt]]
+
+
+Frase Iniziale: Mario married some famous women including Michelle and Claudia .
+[[Mario|m.03rlt]]
+[[Michelle|m.03rlt]]
+[[Claudia|m.03rlt]]
+Frase relazionale: married some famous women including 
+Fatto 1: [[Mario|m.03rlt]] married some famous women including  [[Michelle|m.03rlt]]
+Fatto 2: [[Mario|m.03rlt]] married some famous women including  [[Claudia|m.03rlt]]
+
+
+Frase Iniziale: Obama is a supporter of Lakers , Cavalliers and Bulls .
+[[Obama|m.03rlt]]
+[[Lakers|m.03rlt]]
+[[Cavalliers|m.03rlt]]
+[[Bulls|m.03rlt]]
+Frase relazionale: is a supporter of 
+Fatto 1: [[Obama|m.03rlt]] is a supporter of  [[Lakers|m.03rlt]]
+Fatto 2: [[Obama|m.03rlt]] is a supporter of  [[Cavalliers|m.03rlt]]
+Fatto 3: [[Obama|m.03rlt]] is a supporter of  [[Bulls|m.03rlt]]
+
+
+Frase Iniziale: Obama and Trump are supporters of Lakers , Bulls and Cavalliers
+[[Obama|m.03rlt]]
+[[Trump|m.03rlt]]
+[[Lakers|m.03rlt]]
+[[Bulls|m.03rlt]]
+[[Cavalliers|m.03rlt]]
+Frase relazionale: are supporters of 
+Fatto 1: [[Trump|m.03rlt]] are supporters of  [[Lakers|m.03rlt]]
+Fatto 2: [[Trump|m.03rlt]] are supporters of  [[Bulls|m.03rlt]]
+Fatto 3: [[Trump|m.03rlt]] are supporters of  [[Cavalliers|m.03rlt]]
+
+
+Frase Iniziale: MSN for Windows 8 also had new deals with the Associated Press and Reuters .
+[[MSN|m.0198jf]]
+[[Windows_8|m.0gvswcc]]
+[[Associated_Press|m.0cv_2]]
+[[Reuters|m.0ps53]]
+Frase relazionale: for Windows 8 also had new deals with the 
+Fatto 1: [[MSN|m.0198jf]] for Windows 8 also had new deals with the  [[Associated_Press|m.0cv_2]]
+Fatto 2: [[MSN|m.0198jf]] for Windows 8 also had new deals with the  [[Reuters|m.0ps53]]
+
+
+Frase Iniziale: Many of List of services by MSN were reorganized in 2005 and 2006 under a new brand name that Microsoft championed at the time , Windows Live .
+[[MSN|m.0198jf]]
+[[Microsoft|m.04sv4]]
+[[Windows_Live|m.08nvnv]]
+Frase relazionale: Many of List of services by MSN were reorganized in 
+
+
+Frase Iniziale: MSN became primarily an online content provider of news , entertainment , and common interest topics through its web portal , MSN.com , while Windows Live provided most of Microsoft 's online software and services .
+[[MSN|m.0198jf]]
+[[Windows_Live|m.08nvnv]]
+[[Microsoft|m.04sv4]]
+Frase relazionale: MSN became primarily an online content provider of 
+
+
+Frase Iniziale: MSN became primarily an online content provider of news , entertainment , and common interest topics through its web portal , MSN.com , while Windows Live provided most of Microsoft 's online software and services .
+[[MSN|m.0198jf]]
+[[Windows_Live|m.08nvnv]]
+[[Microsoft|m.04sv4]]
+Frase relazionale: provided most of Microsoft 's online 
+
+
+Frase Iniziale: The MSN Money app  allows users to set up lists of stocks to watch , follow certain corporations and receive stock updates , get the latest headlines regarding stock markets , view real-time trading figures with a 30-minute delay , track their own personal finances , calculate mortgages , get information on commodities and bond  , and use a currency converter .
+[[MSN|m.0198jf]]
+Frase relazionale: allows users to set up lists of stocks to watch , follow certain corporations and receive stock updates , get the latest headlines regarding stock markets , view real-time trading figures with a 30-minute delay , track their own personal finances , calculate mortgages , get information on 
+
+
+Frase Iniziale: The original MSN Mobile software was preloaded on many PDAs and cell phones and usually provided access to legacy MSN services like Hotmail , MSN Messenger , MSN Spaces , and Bing .
+[[MSN|m.0198jf]]
+[[PDAs|m.05t02]]
+[[MSN|m.0198jf]]
+[[Hotmail|m.0288nsm]]
+[[MSN_Messenger|m.08nvdr]]
+[[MSN_Spaces|m.0f3clj]]
+[[Bing|m.0bx7rw]]
+Frase relazionale: was preloaded on many PDAs and cell phones and usually provided access to legacy MSN services like 
+Fatto 1: was preloaded on many PDAs and cell phones and usually provided access to legacy MSN services like  [[Hotmail|m.0288nsm]]
+Fatto 2: was preloaded on many PDAs and cell phones and usually provided access to legacy MSN services like  [[MSN_Messenger|m.08nvdr]]
+Fatto 3: was preloaded on many PDAs and cell phones and usually provided access to legacy MSN services like  [[MSN_Spaces|m.0f3clj]]
+Fatto 4: was preloaded on many PDAs and cell phones and usually provided access to legacy MSN services like  [[Bing|m.0bx7rw]]
+
+
+Frase Iniziale: The original MSN Mobile software was preloaded on many PDAs and cell phones and usually provided access to legacy MSN services like Hotmail , MSN Messenger , MSN Spaces , and Bing .
+[[MSN|m.0198jf]]
+[[PDAs|m.05t02]]
+[[MSN|m.0198jf]]
+[[Hotmail|m.0288nsm]]
+[[MSN_Messenger|m.08nvdr]]
+[[MSN_Spaces|m.0f3clj]]
+[[Bing|m.0bx7rw]]
+Frase relazionale: was preloaded on many 
+Fatto 1: was preloaded on many  [[PDAs|m.05t02]]
+
+
+Frase Iniziale: Don Norman continued his work to further human centered design by serving on numerous university and government advisory boards such as the Defense Advanced Research Projects Agency .
+[[Don_Norman|m.0199cb]]
+[[Defense_Advanced_Research_Projects_Agency|m.02gv2]]
+Frase relazionale: continued his work to further human centered design by serving on numerous 
+
+
+Frase Iniziale: In Oregon , Chinook Jargon was widely used by Indians , trappers , Merchant , employees of the Hudson 's Bay Company , missionaries , and pioneers who came across the Oregon Trail from the 1830s-1870s .
+[[Oregon|m.05kj_]]
+[[Chinook_Jargon|m.0198tr]]
+[[Merchant|m.05798]]
+[[Oregon|m.05kj_]]
+Frase relazionale: was widely used by 
+Fatto 1: [[Chinook_Jargon|m.0198tr]] was widely used by  [[Merchant|m.05798]]
+
+
+Frase Iniziale: The Provinces of Turkey , geographically and as well as economically , is part of the ?ukurova region together with the Mersin Province , Osmaniye Province and Hatay Province Provinces of Turkey .
+[[Provinces_of_Turkey|m.027dqr]]
+[[?ukurova|m.0cdqbm]]
+[[Mersin_Province|m.09wnps]]
+[[Osmaniye_Province|m.07rxw3]]
+[[Hatay_Province|m.0244bz]]
+[[Provinces_of_Turkey|m.027dqr]]
+Frase relazionale: of Turkey , geographically and as well as economically , is part of the ukurova region together with the 
+Fatto 1: [[Provinces_of_Turkey|m.027dqr]] of Turkey , geographically and as well as economically , is part of the ukurova region together with the  [[Provinces_of_Turkey|m.027dqr]]
+Fatto 2: [[Provinces_of_Turkey|m.027dqr]] of Turkey , geographically and as well as economically , is part of the ukurova region together with the  [[Mersin_Province|m.09wnps]]
+Fatto 3: [[Provinces_of_Turkey|m.027dqr]] of Turkey , geographically and as well as economically , is part of the ukurova region together with the  [[Osmaniye_Province|m.07rxw3]]
+Fatto 4: [[Provinces_of_Turkey|m.027dqr]] of Turkey , geographically and as well as economically , is part of the ukurova region together with the  [[Hatay_Province|m.0244bz]]
+Fatto 5: [[Provinces_of_Turkey|m.027dqr]] of Turkey , geographically and as well as economically , is part of the ukurova region together with the  [[Provinces_of_Turkey|m.027dqr]]
+Fatto 6: [[Provinces_of_Turkey|m.027dqr]] of Turkey , geographically and as well as economically , is part of the ukurova region together with the  [[Provinces_of_Turkey|m.027dqr]]
+Fatto 7: [[Provinces_of_Turkey|m.027dqr]] of Turkey , geographically and as well as economically , is part of the ukurova region together with the  [[Mersin_Province|m.09wnps]]
+Fatto 8: [[Provinces_of_Turkey|m.027dqr]] of Turkey , geographically and as well as economically , is part of the ukurova region together with the  [[Osmaniye_Province|m.07rxw3]]
+Fatto 9: [[Provinces_of_Turkey|m.027dqr]] of Turkey , geographically and as well as economically , is part of the ukurova region together with the  [[Hatay_Province|m.0244bz]]
+Fatto 10: [[Provinces_of_Turkey|m.027dqr]] of Turkey , geographically and as well as economically , is part of the ukurova region together with the  [[Provinces_of_Turkey|m.027dqr]]
+Fatto 11: [[Provinces_of_Turkey|m.027dqr]] of Turkey , geographically and as well as economically , is part of the ukurova region together with the  [[Provinces_of_Turkey|m.027dqr]]
+Fatto 12: [[Provinces_of_Turkey|m.027dqr]] of Turkey , geographically and as well as economically , is part of the ukurova region together with the  [[Provinces_of_Turkey|m.027dqr]]
+
+
+Frase Iniziale: Martin Carthy Order of the British Empire  is an English folk music singer and guitarist who has remained one of the most influential figures in British traditional music , inspiring contemporaries such as Bob Dylan and Paul Simon and later artists such as Richard Thompson (musician) since Martin Carthy emerged as a young musician in the early days of the folk revival .
+[[Martin_Carthy|m.0199j6]]
+[[Order_of_the_British_Empire|m.01f2y9]]
+[[Bob_Dylan|m.01vrncs]]
+[[Paul_Simon|m.0ddkf]]
+[[Richard_Thompson_(musician)|m.0180w8]]
+[[Martin_Carthy|m.0199j6]]
+Frase relazionale: Martin Carthy Order of the British Empire is an English folk music singer and guitarist who has remained one of the most influential figures in British traditional music , inspiring contemporaries such as 
+Fatto 1: Martin Carthy Order of the British Empire is an English folk music singer and guitarist who has remained one of the most influential figures in British traditional music , inspiring contemporaries such as  [[Bob_Dylan|m.01vrncs]]
+Fatto 2: Martin Carthy Order of the British Empire is an English folk music singer and guitarist who has remained one of the most influential figures in British traditional music , inspiring contemporaries such as  [[Paul_Simon|m.0ddkf]]
+
+
+Frase Iniziale: Semi-regulars were dwarf actor David Rappaport who played characters such as Green Nigel '  and the Fonzie-like Shades , Emil Wolk and puppeteer Trevor East Sally James (presenter) with a giant parrot , presumably to fill the void left by Bob Carolgees .
+[[David_Rappaport|m.03f7s4]]
+[[Emil_Wolk|m.03f1dcb]]
+[[Trevor_East|m.0bwgsyf]]
+[[Sally_James_(presenter)|m.091jz0]]
+[[Bob_Carolgees|m.0349m6]]
+Frase relazionale: who played characters such as 
+
+
+Frase Iniziale: Saturday Stayback received much less controversy than O.T.T. , and also introduced new talent such as Phil Cool and Tony Slattery .
+[[Saturday_Stayback|m.0gdfhd]]
+[[O.T.T.|m.091hy3]]
+[[Phil_Cool|m.02y1hr]]
+[[Tony_Slattery|m.02qv3l]]
+Frase relazionale: received much less controversy than O.T.T. , and also introduced new talent such as 
+Fatto 1: [[Saturday_Stayback|m.0gdfhd]] received much less controversy than O.T.T. , and also introduced new talent such as  [[Phil_Cool|m.02y1hr]]
+Fatto 2: [[Saturday_Stayback|m.0gdfhd]] received much less controversy than O.T.T. , and also introduced new talent such as  [[Tony_Slattery|m.02qv3l]]
+
+
+Frase Iniziale: The Safari was used in many adventure films such as the Tarzan , Jungle Jim , and Bomba the Jungle Boy film series up to The Naked Prey  where Cornel Wilde , a white hunter , becomes game himself .
+[[Safari|m.0199b0]]
+[[Tarzan|m.07lk3]]
+[[Jungle_Jim|m.04143my]]
+[[Bomba_the_Jungle_Boy|m.02qj5pt]]
+[[The_Naked_Prey|m.0272kz_]]
+[[Cornel_Wilde|m.01380_]]
+Frase relazionale: The Safari was used in many adventure films such as the 
+Fatto 1: The Safari was used in many adventure films such as the  [[Tarzan|m.07lk3]]
+Fatto 2: The Safari was used in many adventure films such as the  [[Jungle_Jim|m.04143my]]
+Fatto 3: The Safari was used in many adventure films such as the  [[Bomba_the_Jungle_Boy|m.02qj5pt]]
+
+
+Frase Iniziale: Passacaglia for lute have been composed by figures such as Alessandro Piccinini , G. H. Kapsberger , Sylvius Leopold Weiss , Esaias Reusner , Count Logy , Robert de Vis?e , Jacques Bittner , Philipp Franz Lesage De Richee , Gleitsmann , Dufaut , Gallot , Denis Gaultier , Ennemond Gaultier , and Roman Turovsky-Savchuk , a Passacaglia for bandura by Julian Kytasty , and for baroque guitar by Paulo Galv?o , Santiago de Murcia , Francisco Guerau , Gaspar Sanz , and Marcello Vitale .
+[[Passacaglia|m.0199v5]]
+[[Alessandro_Piccinini|m.08r06_]]
+[[Kapsberger|m.01tlkhx]]
+[[Sylvius_Leopold_Weiss|m.02y0cz]]
+[[Esaias_Reusner|m.0nhqtz0]]
+[[Robert_de_Vis?e|m.01tz2gw]]
+[[Denis_Gaultier|m.0h2z8]]
+[[Ennemond_Gaultier|m.05c0s1l]]
+[[Roman_Turovsky-Savchuk|m.0gc6vw]]
+[[Passacaglia|m.0199v5]]
+[[Julian_Kytasty|m.026406y]]
+[[Paulo_Galv?o|m.03cczn6]]
+[[Santiago_de_Murcia|m.01tzsgs]]
+[[Francisco_Guerau|m.01w3x1p]]
+[[Gaspar_Sanz|m.078970]]
+[[Marcello_Vitale|m.04cs_9d]]
+Frase relazionale: for lute have been composed by 
+Fatto 1: [[Passacaglia|m.0199v5]] for lute have been composed by  [[Julian_Kytasty|m.026406y]]
+Fatto 2: [[Passacaglia|m.0199v5]] for lute have been composed by  [[Santiago_de_Murcia|m.01tzsgs]]
+Fatto 3: [[Passacaglia|m.0199v5]] for lute have been composed by  [[Francisco_Guerau|m.01w3x1p]]
+Fatto 4: [[Passacaglia|m.0199v5]] for lute have been composed by  [[Gaspar_Sanz|m.078970]]
+Fatto 5: [[Passacaglia|m.0199v5]] for lute have been composed by  [[Marcello_Vitale|m.04cs_9d]]
+
+
+Frase Iniziale: Benjamin Britten also employed the form in smaller vocal forms , such as the Serenade for Tenor, Horn and Strings  and The Holy Sonnets of John Donne  for voice and piano , as well as in purely instrumental compositions , notably in the second and third Cello suites (Britten) , second and third string quartets , the Cello Symphony (Britten) , and the Nocturnal for guitar .
+[[Benjamin_Britten|m.0h6sv]]
+[[Serenade_for_Tenor,_Horn_and_Strings|m.02sw34]]
+[[Cello_suites_(Britten)|m.0cj2pz]]
+[[Cello_Symphony_(Britten)|m.0g03fs]]
+Frase relazionale: also employed the form in smaller vocal 
+Fatto 1: [[Benjamin_Britten|m.0h6sv]] also employed the form in smaller vocal  [[Cello_suites_(Britten)|m.0cj2pz]]
+
+
+Frase Iniziale: Benjamin Britten also employed the form in smaller vocal forms , such as the Serenade for Tenor, Horn and Strings  and The Holy Sonnets of John Donne  for voice and piano , as well as in purely instrumental compositions , notably in the second and third Cello suites (Britten) , second and third string quartets , the Cello Symphony (Britten) , and the Nocturnal for guitar .
+[[Benjamin_Britten|m.0h6sv]]
+[[Serenade_for_Tenor,_Horn_and_Strings|m.02sw34]]
+[[Cello_suites_(Britten)|m.0cj2pz]]
+[[Cello_Symphony_(Britten)|m.0g03fs]]
+Frase relazionale: also employed the form in smaller vocal forms , such as the Serenade for 
+Fatto 1: [[Benjamin_Britten|m.0h6sv]] also employed the form in smaller vocal forms , such as the Serenade for  [[Serenade_for_Tenor,_Horn_and_Strings|m.02sw34]]
+Fatto 2: [[Benjamin_Britten|m.0h6sv]] also employed the form in smaller vocal forms , such as the Serenade for  [[Serenade_for_Tenor,_Horn_and_Strings|m.02sw34]]
+Fatto 3: [[Benjamin_Britten|m.0h6sv]] also employed the form in smaller vocal forms , such as the Serenade for  [[Serenade_for_Tenor,_Horn_and_Strings|m.02sw34]]
+
+
+Frase Iniziale: Predator of Darter are mainly large carnivorous birds , including passerines like the Australian raven  and house crow  , and birds of prey such as marsh harriers  or Pallas's fish eagle  .
+[[Predator|m.0fswb]]
+[[Darter|m.0199p_]]
+[[Australian_raven|m.01f0ft]]
+[[Pallas's_fish_eagle|m.08zk8p]]
+Frase relazionale: of Darter are mainly large carnivorous birds , including passerines like the Australian raven and house crow , and birds of prey such as marsh 
+Fatto 1: [[Predator|m.0fswb]] of Darter are mainly large carnivorous birds , including passerines like the Australian raven and house crow , and birds of prey such as marsh  [[Pallas's_fish_eagle|m.08zk8p]]
+
+
+Frase Iniziale: Predator of Darter are mainly large carnivorous birds , including passerines like the Australian raven  and house crow  , and birds of prey such as marsh harriers  or Pallas's fish eagle  .
+[[Predator|m.0fswb]]
+[[Darter|m.0199p_]]
+[[Australian_raven|m.01f0ft]]
+[[Pallas's_fish_eagle|m.08zk8p]]
+Frase relazionale: of Darter are mainly large carnivorous birds , including 
+
+
+Frase Iniziale: Predator of Darter are mainly large carnivorous birds , including passerines like the Australian raven  and house crow  , and birds of prey such as marsh harriers  or Pallas's fish eagle  .
+[[Predator|m.0fswb]]
+[[Darter|m.0199p_]]
+[[Australian_raven|m.01f0ft]]
+[[Pallas's_fish_eagle|m.08zk8p]]
+Frase relazionale: of Darter are mainly large carnivorous birds , including passerines like the Australian 
+Fatto 1: [[Predator|m.0fswb]] of Darter are mainly large carnivorous birds , including passerines like the Australian  [[Australian_raven|m.01f0ft]]
+
+
+Frase Iniziale: In bipolar disorder , Atypical antipsychotic are most commonly used to rapidly control mania and mixed episodes , often in conjunction with mood stabilizers  such as Lithium (medication) and Sodium valproate .
+[[Atypical_antipsychotic|m.0199xw]]
+[[Lithium_(medication)|m.0d_wbd]]
+[[Sodium_valproate|m.02_mhm]]
+Frase relazionale: are most commonly used to rapidly control mania and mixed episodes , often in conjunction with mood stabilizers such as 
+Fatto 1: [[Atypical_antipsychotic|m.0199xw]] are most commonly used to rapidly control mania and mixed episodes , often in conjunction with mood stabilizers such as  [[Lithium_(medication)|m.0d_wbd]]
+Fatto 2: [[Atypical_antipsychotic|m.0199xw]] are most commonly used to rapidly control mania and mixed episodes , often in conjunction with mood stabilizers such as  [[Sodium_valproate|m.02_mhm]]
+
+
+Frase Iniziale: Even though enclosed , dome Stadium are called Stadium because they are large enough for , and designed for , what are generally considered to be outdoor sports such as athletics , American football , association football , Rugby football , and baseball .
+[[Stadium|m.019cfy]]
+[[Stadium|m.019cfy]]
+[[American_football|m.0jm_]]
+[[Rugby_football|m.06bqd]]
+Frase relazionale: are generally considered to be outdoor sports such as 
+Fatto 1: are generally considered to be outdoor sports such as  [[American_football|m.0jm_]]
+Fatto 2: are generally considered to be outdoor sports such as  [[Rugby_football|m.06bqd]]
+Fatto 3: are generally considered to be outdoor sports such as  [[American_football|m.0jm_]]
+Fatto 4: are generally considered to be outdoor sports such as  [[Rugby_football|m.06bqd]]
+Fatto 5: are generally considered to be outdoor sports such as  [[American_football|m.0jm_]]
+Fatto 6: are generally considered to be outdoor sports such as  [[Rugby_football|m.06bqd]]
+
+
+Frase Iniziale: Even though enclosed , dome Stadium are called Stadium because they are large enough for , and designed for , what are generally considered to be outdoor sports such as athletics , American football , association football , Rugby football , and baseball .
+[[Stadium|m.019cfy]]
+[[Stadium|m.019cfy]]
+[[American_football|m.0jm_]]
+[[Rugby_football|m.06bqd]]
+Frase relazionale: are generally considered to be outdoor sports such as 
+Fatto 1: are generally considered to be outdoor sports such as  [[American_football|m.0jm_]]
+Fatto 2: are generally considered to be outdoor sports such as  [[Rugby_football|m.06bqd]]
+Fatto 3: are generally considered to be outdoor sports such as  [[American_football|m.0jm_]]
+Fatto 4: are generally considered to be outdoor sports such as  [[Rugby_football|m.06bqd]]
+Fatto 5: are generally considered to be outdoor sports such as  [[American_football|m.0jm_]]
+Fatto 6: are generally considered to be outdoor sports such as  [[Rugby_football|m.06bqd]]
+
+
+Frase Iniziale: Poor Stadium design has contributed to disasters , such as the Hillsborough disaster and the Heysel Stadium disaster .
+[[Stadium|m.019cfy]]
+[[Hillsborough_disaster|m.0g7tg]]
+[[Heysel_Stadium_disaster|m.0g7rq]]
+Frase relazionale: has contributed to disasters , such as the 
+Fatto 1: has contributed to disasters , such as the  [[Hillsborough_disaster|m.0g7tg]]
+Fatto 2: has contributed to disasters , such as the  [[Heysel_Stadium_disaster|m.0g7rq]]
+Fatto 3: has contributed to disasters , such as the  [[Hillsborough_disaster|m.0g7tg]]
+Fatto 4: has contributed to disasters , such as the  [[Heysel_Stadium_disaster|m.0g7rq]]
+
+
+Frase Iniziale: Prior to the group 's formation , Ryuichi Sakamoto had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 1970 , including synthesizers such as the Buchla , Moog synthesizer , and ARP Instruments, Inc. .
+[[Ryuichi_Sakamoto|m.06k02]]
+[[Experimental_music|m.03ckfl9]]
+[[Electronic_musical_instrument|m.02qjv]]
+[[Tokyo_National_University_of_Fine_Arts_and_Music|m.0558yl]]
+[[Buchla|m.053j_1]]
+[[Moog_synthesizer|m.01pb1x]]
+[[ARP_Instruments,_Inc.|m.02dvrz]]
+Frase relazionale: had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 1970 , including synthesizers such as the 
+Fatto 1: [[Ryuichi_Sakamoto|m.06k02]] had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 1970 , including synthesizers such as the  [[Buchla|m.053j_1]]
+Fatto 2: [[Ryuichi_Sakamoto|m.06k02]] had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 1970 , including synthesizers such as the  [[Moog_synthesizer|m.01pb1x]]
+Fatto 3: [[Ryuichi_Sakamoto|m.06k02]] had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 1970 , including synthesizers such as the  [[ARP_Instruments,_Inc.|m.02dvrz]]
+
+
+Frase Iniziale: Prior to the group 's formation , Ryuichi Sakamoto had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 1970 , including synthesizers such as the Buchla , Moog synthesizer , and ARP Instruments, Inc. .
+[[Ryuichi_Sakamoto|m.06k02]]
+[[Experimental_music|m.03ckfl9]]
+[[Electronic_musical_instrument|m.02qjv]]
+[[Tokyo_National_University_of_Fine_Arts_and_Music|m.0558yl]]
+[[Buchla|m.053j_1]]
+[[Moog_synthesizer|m.01pb1x]]
+[[ARP_Instruments,_Inc.|m.02dvrz]]
+Frase relazionale: had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 
+
+
+Frase Iniziale: Prior to the group 's formation , Ryuichi Sakamoto had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 1970 , including synthesizers such as the Buchla , Moog synthesizer , and ARP Instruments, Inc. .
+[[Ryuichi_Sakamoto|m.06k02]]
+[[Experimental_music|m.03ckfl9]]
+[[Electronic_musical_instrument|m.02qjv]]
+[[Tokyo_National_University_of_Fine_Arts_and_Music|m.0558yl]]
+[[Buchla|m.053j_1]]
+[[Moog_synthesizer|m.01pb1x]]
+[[ARP_Instruments,_Inc.|m.02dvrz]]
+Frase relazionale: had been Experimental music with Electronic musical instrument at the Tokyo National University of 
+Fatto 1: [[Ryuichi_Sakamoto|m.06k02]] had been Experimental music with Electronic musical instrument at the Tokyo National University of  [[Tokyo_National_University_of_Fine_Arts_and_Music|m.0558yl]]
+Fatto 2: [[Ryuichi_Sakamoto|m.06k02]] had been Experimental music with Electronic musical instrument at the Tokyo National University of  [[Tokyo_National_University_of_Fine_Arts_and_Music|m.0558yl]]
+
+
+Frase Iniziale: Yellow Magic Orchestra are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling (music) by modern artists , including experimental artist Yamantaka Eye , electronica group LFO  , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital  and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as Michael Jackson , Quincy Jones , Greg Phillinganes , Eric Clapton , Mariah Carey , and Jennifer Lopez .
+[[Yellow_Magic_Orchestra|m.019bmw]]
+[[Sampling_(music)|m.0155s6]]
+[[Yamantaka_Eye|m.05b597]]
+[[Drum_and_bass|m.0283d]]
+[[Uwe_Schmidt|m.01vhpy]]
+[[Ambient_music|m.0fd3y]]
+[[House_music|m.03mb9]]
+[[Afrika_Bambaataa|m.01w29_g]]
+[[Michael_Jackson|m.09889g]]
+[[Quincy_Jones|m.01wd9lv]]
+[[Greg_Phillinganes|m.04f1sk]]
+[[Eric_Clapton|m.02qwg]]
+[[Mariah_Carey|m.04xrx]]
+[[Jennifer_Lopez|m.043zg]]
+Frase relazionale: are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental artist Yamantaka Eye , electronica group LFO , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as 
+Fatto 1: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental artist Yamantaka Eye , electronica group LFO , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as  [[Michael_Jackson|m.09889g]]
+Fatto 2: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental artist Yamantaka Eye , electronica group LFO , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as  [[Quincy_Jones|m.01wd9lv]]
+Fatto 3: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental artist Yamantaka Eye , electronica group LFO , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as  [[Greg_Phillinganes|m.04f1sk]]
+Fatto 4: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental artist Yamantaka Eye , electronica group LFO , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as  [[Eric_Clapton|m.02qwg]]
+Fatto 5: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental artist Yamantaka Eye , electronica group LFO , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as  [[Mariah_Carey|m.04xrx]]
+Fatto 6: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental artist Yamantaka Eye , electronica group LFO , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as  [[Jennifer_Lopez|m.043zg]]
+
+
+Frase Iniziale: Yellow Magic Orchestra are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling (music) by modern artists , including experimental artist Yamantaka Eye , electronica group LFO  , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital  and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as Michael Jackson , Quincy Jones , Greg Phillinganes , Eric Clapton , Mariah Carey , and Jennifer Lopez .
+[[Yellow_Magic_Orchestra|m.019bmw]]
+[[Sampling_(music)|m.0155s6]]
+[[Yamantaka_Eye|m.05b597]]
+[[Drum_and_bass|m.0283d]]
+[[Uwe_Schmidt|m.01vhpy]]
+[[Ambient_music|m.0fd3y]]
+[[House_music|m.03mb9]]
+[[Afrika_Bambaataa|m.01w29_g]]
+[[Michael_Jackson|m.09889g]]
+[[Quincy_Jones|m.01wd9lv]]
+[[Greg_Phillinganes|m.04f1sk]]
+[[Eric_Clapton|m.02qwg]]
+[[Mariah_Carey|m.04xrx]]
+[[Jennifer_Lopez|m.043zg]]
+Frase relazionale: are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental 
+Fatto 1: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental  [[Yamantaka_Eye|m.05b597]]
+Fatto 2: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental  [[Drum_and_bass|m.0283d]]
+
+
+Frase Iniziale: Yellow Magic Orchestra are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling (music) by modern artists , including experimental artist Yamantaka Eye , electronica group LFO  , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital  and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as Michael Jackson , Quincy Jones , Greg Phillinganes , Eric Clapton , Mariah Carey , and Jennifer Lopez .
+[[Yellow_Magic_Orchestra|m.019bmw]]
+[[Sampling_(music)|m.0155s6]]
+[[Yamantaka_Eye|m.05b597]]
+[[Drum_and_bass|m.0283d]]
+[[Uwe_Schmidt|m.01vhpy]]
+[[Ambient_music|m.0fd3y]]
+[[House_music|m.03mb9]]
+[[Afrika_Bambaataa|m.01w29_g]]
+[[Michael_Jackson|m.09889g]]
+[[Quincy_Jones|m.01wd9lv]]
+[[Greg_Phillinganes|m.04f1sk]]
+[[Eric_Clapton|m.02qwg]]
+[[Mariah_Carey|m.04xrx]]
+[[Jennifer_Lopez|m.043zg]]
+Frase relazionale: are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental 
+Fatto 1: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental  [[Yamantaka_Eye|m.05b597]]
+Fatto 2: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental  [[Drum_and_bass|m.0283d]]
+
+
+Frase Iniziale: In December 1942 and January 1943 , Doris Miller gave talks in Oakland, California , in his hometown of Waco, Texas , in Dallas, Texas , and to the first graduating class of African-American sailors from Great Lakes Naval Training Station , Chicago .
+[[Doris_Miller|m.0198hp]]
+[[Oakland,_California|m.0dc95]]
+[[Waco,_Texas|m.0106dv]]
+[[Dallas,_Texas|m.0f2rq]]
+[[Great_Lakes_Naval_Training_Station|m.0503sc]]
+[[Chicago|m.01_d4]]
+Frase relazionale: 
+Fatto 1: [[Doris_Miller|m.0198hp]]  [[Oakland,_California|m.0dc95]]
+Fatto 2: [[Doris_Miller|m.0198hp]]  [[Waco,_Texas|m.0106dv]]
+Fatto 3: [[Doris_Miller|m.0198hp]]  [[Dallas,_Texas|m.0f2rq]]
+
+
+Frase Iniziale: Internet Start served as the default home page for Internet Explorer and offered basic information such as news , weather , sports , stocks , entertainment reports , links to other websites on the Internet , articles by Microsoft staff members , and software updates for Windows 8 .
+[[Internet|m.03rlt]]
+[[Internet_Explorer|m.03xw0]]
+[[Internet|m.03rlt]]
+[[Microsoft|m.04sv4]]
+[[Windows_8|m.0gvswcc]]
+Frase relazionale: served as the default home page for Internet Explorer and offered basic information such as news , weather , sports , stocks , entertainment reports , links to other 
+
+
+Frase Iniziale: The consonant r is rare though existent in Chinook Jargon , and English language and French language loan words , such as rice and merci , have changed in their adoption to the Jargon , to lice and mahsie , respectively .
+[[Chinook_Jargon|m.0198tr]]
+[[English_language|m.02h40lc]]
+[[French_language|m.064_8sq]]
+[[Jargon|m.0d5rw]]
+Frase relazionale: and merci , have changed in their adoption to the 
+Fatto 1: and merci , have changed in their adoption to the  [[Chinook_Jargon|m.0198tr]]
+Fatto 2: and merci , have changed in their adoption to the  [[Jargon|m.0d5rw]]
+
+
+Frase Iniziale: Some authors , such as Jean-Fran?ois Lyotard and Jean Baudrillard , believe that modernity ended in the mid - or late 20th century and thus have defined a period subsequent to modernity , namely Postmodernity  .
+[[Jean-Fran?ois_Lyotard|m.01k3dv]]
+[[Jean_Baudrillard|m.01hmpq]]
+[[Postmodernity|m.01by6m]]
+Frase relazionale: Some authors , such as 
+Fatto 1: Some authors , such as  [[Jean-Fran?ois_Lyotard|m.01k3dv]]
+Fatto 2: Some authors , such as  [[Jean_Baudrillard|m.01hmpq]]
+
+
+Frase Iniziale: Critical theory such as Theodor Adorno and Zygmunt Bauman propose that modernity or industrialization represents a departure from the central tenets of the Enlightenment in Western secular tradition and towards nefarious processes of social alienation , such as commodity fetishism and the Holocaust  .
+[[Critical_theory|m.023w0]]
+[[Theodor_Adorno|m.07h1q]]
+[[Zygmunt_Bauman|m.0313tv]]
+[[Enlightenment_in_Western_secular_tradition|m.080h4w7]]
+[[Holocaust|m.03hzt]]
+Frase relazionale: Critical theory such as 
+Fatto 1: Critical theory such as  [[Theodor_Adorno|m.07h1q]]
+Fatto 2: Critical theory such as  [[Zygmunt_Bauman|m.0313tv]]
+
+
+Frase Iniziale: Critical theory such as Theodor Adorno and Zygmunt Bauman propose that modernity or industrialization represents a departure from the central tenets of the Enlightenment in Western secular tradition and towards nefarious processes of social alienation , such as commodity fetishism and the Holocaust  .
+[[Critical_theory|m.023w0]]
+[[Theodor_Adorno|m.07h1q]]
+[[Zygmunt_Bauman|m.0313tv]]
+[[Enlightenment_in_Western_secular_tradition|m.080h4w7]]
+[[Holocaust|m.03hzt]]
+Frase relazionale: represents a departure from the central tenets of the Enlightenment in Western secular tradition and towards nefarious processes of social alienation , such as 
+Fatto 1: represents a departure from the central tenets of the Enlightenment in Western secular tradition and towards nefarious processes of social alienation , such as  [[Holocaust|m.03hzt]]
+
+
+Frase Iniziale: The American Antihero of the 1950s and 1960s  was typically more proactive than his French counterpart ; with characters such as Jack Kerouac 's Dean Moriarty famously taking to the road to vanquish his ennui .
+[[Antihero|m.0198nq]]
+[[Jack_Kerouac|m.041mt]]
+Frase relazionale: The American Antihero of the 
+
+
+Frase Iniziale: In those hearings , Ruth Bader Ginsburg did not answer questions involving matters such as Abortion in the United States , LGBT rights in the United States , Separation of church and state in the United States , and disability rights .
+[[Ruth_Bader_Ginsburg|m.0199pk]]
+[[Separation_of_church_and_state_in_the_United_States|m.02ts49]]
+Frase relazionale: did not answer questions involving matters such as Abortion in the United States , LGBT rights in the United States , Separation of 
+Fatto 1: [[Ruth_Bader_Ginsburg|m.0199pk]] did not answer questions involving matters such as Abortion in the United States , LGBT rights in the United States , Separation of  [[Separation_of_church_and_state_in_the_United_States|m.02ts49]]
+Fatto 2: [[Ruth_Bader_Ginsburg|m.0199pk]] did not answer questions involving matters such as Abortion in the United States , LGBT rights in the United States , Separation of  [[Separation_of_church_and_state_in_the_United_States|m.02ts49]]
+
+
+Frase Iniziale: Paul Hindemith employed the form to conclude his 1938 ballet , Nobilissima Visione , and it is also found in his early Sonata for viola solo , Op. 11 , No. 5  , as well as in later works such as the Fifth String Quartet and the Octet for winds and strings .
+[[Paul_Hindemith|m.01mlm1j]]
+[[Nobilissima_Visione|m.0c41rdw]]
+Frase relazionale: is also found in his early Sonata for viola solo , Op. 11 , No. 5 , as well as in later works such as the Fifth 
+
+
+Frase Iniziale: Paul Hindemith employed the form to conclude his 1938 ballet , Nobilissima Visione , and it is also found in his early Sonata for viola solo , Op. 11 , No. 5  , as well as in later works such as the Fifth String Quartet and the Octet for winds and strings .
+[[Paul_Hindemith|m.01mlm1j]]
+[[Nobilissima_Visione|m.0c41rdw]]
+Frase relazionale: is also found in his early 
+
+
+Frase Iniziale: Paul Hindemith employed the form to conclude his 1938 ballet , Nobilissima Visione , and it is also found in his early Sonata for viola solo , Op. 11 , No. 5  , as well as in later works such as the Fifth String Quartet and the Octet for winds and strings .
+[[Paul_Hindemith|m.01mlm1j]]
+[[Nobilissima_Visione|m.0c41rdw]]
+Frase relazionale: is also found in his early Sonata for viola solo , Op. 11 , No. 5 , as well as in later works such as the Fifth String Quartet and the Octet for 
+
+
+Frase Iniziale: Agricultural products from Bardera 's fertile lands , which include maize , potatoes , sorghum , tobacco , onions , sesame , fruits such as papayas , mangoes , watermelons and bananas , are shipped to many different parts of the country .
+[[Bardera|m.09fc6b]]
+Frase relazionale: from Bardera 's fertile lands , which include maize , potatoes , sorghum , tobacco , onions , sesame , fruits such as 
+
+
+Frase Iniziale: Parts of the Gedo region , such as the Daawo region , have rocky mountains , while red sand is found in all areas and white sand dunes across the Jubba Valley .
+[[Gedo|m.019967]]
+[[Jubba_Valley|m.0cmn3v]]
+Frase relazionale: is found in all 
+
+
+Frase Iniziale: Doris Miller was the first African American to be awarded the Navy Cross , the third highest honor awarded by the U.S. Navy at the time , after the Medal of Honor and the Navy Distinguished Service Medal .
+[[Doris_Miller|m.0198hp]]
+[[African_American|m.0x67]]
+[[Navy_Cross|m.02d1w_]]
+[[Medal_of_Honor|m.015cl6]]
+[[Navy_Distinguished_Service_Medal|m.039sxx]]
+Frase relazionale: was the first African American to be awarded the Navy Cross , the third highest honor awarded by the U.S. Navy at the time , after the Medal of 
+Fatto 1: [[Doris_Miller|m.0198hp]] was the first African American to be awarded the Navy Cross , the third highest honor awarded by the U.S. Navy at the time , after the Medal of  [[Medal_of_Honor|m.015cl6]]
+Fatto 2: [[Doris_Miller|m.0198hp]] was the first African American to be awarded the Navy Cross , the third highest honor awarded by the U.S. Navy at the time , after the Medal of  [[Medal_of_Honor|m.015cl6]]
+Fatto 3: [[Doris_Miller|m.0198hp]] was the first African American to be awarded the Navy Cross , the third highest honor awarded by the U.S. Navy at the time , after the Medal of  [[Navy_Distinguished_Service_Medal|m.039sxx]]
+
+
+Frase Iniziale: Doris Miller was born in Waco, Texas , on October 12 , 1919 , to Connery and Henrietta Doris Miller .
+[[Doris_Miller|m.0198hp]]
+[[Waco,_Texas|m.0106dv]]
+[[Doris_Miller|m.0198hp]]
+Frase relazionale: was born in Waco , Texas , on October 12 , 1919 , to 
+Fatto 1: [[Doris_Miller|m.0198hp]] was born in Waco , Texas , on October 12 , 1919 , to  [[Doris_Miller|m.0198hp]]
+Fatto 2: [[Doris_Miller|m.0198hp]] was born in Waco , Texas , on October 12 , 1919 , to  [[Doris_Miller|m.0198hp]]
+
+
+Frase Iniziale: Lieutenant Frederic H. White ordered Doris Miller to help him and Ensign Victor Delano load the unmanned   1 and   2 M2 Browning machine gun Anti-aircraft warfare machine guns aft of the conning tower .
+[[Doris_Miller|m.0198hp]]
+[[M2_Browning_machine_gun|m.01kpt1]]
+[[Anti-aircraft_warfare|m.012pyc]]
+Frase relazionale: Lieutenant Frederic H. White ordered Doris Miller to help him and Ensign Victor Delano load the unmanned 
+Fatto 1: Lieutenant Frederic H. White ordered Doris Miller to help him and Ensign Victor Delano load the unmanned  [[Doris_Miller|m.0198hp]]
+Fatto 2: Lieutenant Frederic H. White ordered Doris Miller to help him and Ensign Victor Delano load the unmanned  [[M2_Browning_machine_gun|m.01kpt1]]
+Fatto 3: Lieutenant Frederic H. White ordered Doris Miller to help him and Ensign Victor Delano load the unmanned  [[Anti-aircraft_warfare|m.012pyc]]
+Fatto 4: Lieutenant Frederic H. White ordered Doris Miller to help him and Ensign Victor Delano load the unmanned  [[M2_Browning_machine_gun|m.01kpt1]]
+Fatto 5: Lieutenant Frederic H. White ordered Doris Miller to help him and Ensign Victor Delano load the unmanned  [[Anti-aircraft_warfare|m.012pyc]]
+
+
+Frase Iniziale: Lieutenant Frederic H. White ordered Doris Miller to help him and Ensign Victor Delano load the unmanned   1 and   2 M2 Browning machine gun Anti-aircraft warfare machine guns aft of the conning tower .
+[[Doris_Miller|m.0198hp]]
+[[M2_Browning_machine_gun|m.01kpt1]]
+[[Anti-aircraft_warfare|m.012pyc]]
+Frase relazionale: Lieutenant Frederic H. White ordered Doris Miller to help him and Ensign Victor Delano load the unmanned 
+Fatto 1: Lieutenant Frederic H. White ordered Doris Miller to help him and Ensign Victor Delano load the unmanned  [[Doris_Miller|m.0198hp]]
+Fatto 2: Lieutenant Frederic H. White ordered Doris Miller to help him and Ensign Victor Delano load the unmanned  [[M2_Browning_machine_gun|m.01kpt1]]
+Fatto 3: Lieutenant Frederic H. White ordered Doris Miller to help him and Ensign Victor Delano load the unmanned  [[Anti-aircraft_warfare|m.012pyc]]
+Fatto 4: Lieutenant Frederic H. White ordered Doris Miller to help him and Ensign Victor Delano load the unmanned  [[M2_Browning_machine_gun|m.01kpt1]]
+Fatto 5: Lieutenant Frederic H. White ordered Doris Miller to help him and Ensign Victor Delano load the unmanned  [[Anti-aircraft_warfare|m.012pyc]]
+
+
+Frase Iniziale: Doris Miller fired the gun until Doris Miller ran out of ammunition , when Doris Miller was ordered by Lieutenant Claude V. Ricketts along with Lieutenant White and Chief Signalman A.A. Siewart to help carry the captain up to the navigation bridge out of the thick oily smoke generated by the many fires on and around the ship .
+[[Doris_Miller|m.0198hp]]
+[[Doris_Miller|m.0198hp]]
+[[Doris_Miller|m.0198hp]]
+[[Claude_V._Ricketts|m.02qft9d]]
+Frase relazionale: fired the gun until Doris Miller ran out of ammunition , when Doris Miller was ordered by Lieutenant Claude V. Ricketts along with 
+
+
+Frase Iniziale: In December 1942 and January 1943 , Doris Miller gave talks in Oakland, California , in his hometown of Waco, Texas , in Dallas, Texas , and to the first graduating class of African-American sailors from Great Lakes Naval Training Station , Chicago .
+[[Doris_Miller|m.0198hp]]
+[[Oakland,_California|m.0dc95]]
+[[Waco,_Texas|m.0106dv]]
+[[Dallas,_Texas|m.0f2rq]]
+[[Great_Lakes_Naval_Training_Station|m.0503sc]]
+[[Chicago|m.01_d4]]
+Frase relazionale: 
+Fatto 1: [[Doris_Miller|m.0198hp]]  [[Oakland,_California|m.0dc95]]
+Fatto 2: [[Doris_Miller|m.0198hp]]  [[Waco,_Texas|m.0106dv]]
+Fatto 3: [[Doris_Miller|m.0198hp]]  [[Dallas,_Texas|m.0f2rq]]
+
+
+Frase Iniziale: But Maricarmen Regueiro toiled as a secondary soap actress until 1988 , when Maricarmen Regueiro starred in Se?ora (telenovela) , alongside Carlos Mata , Flavio Caballero and Caridad Canel?n .
+[[Maricarmen_Regueiro|m.0198rw]]
+[[Maricarmen_Regueiro|m.0198rw]]
+[[Se?ora_(telenovela)|m.0fkbfw]]
+[[Flavio_Caballero|m.0b1j9h]]
+Frase relazionale: starred in Se ora -LRB- telenovela -RRB- , alongside 
+Fatto 1: [[Maricarmen_Regueiro|m.0198rw]] starred in Se ora -LRB- telenovela -RRB- , alongside  [[Flavio_Caballero|m.0b1j9h]]
+Fatto 2: [[Maricarmen_Regueiro|m.0198rw]] starred in Se ora -LRB- telenovela -RRB- , alongside  [[Maricarmen_Regueiro|m.0198rw]]
+Fatto 3: [[Maricarmen_Regueiro|m.0198rw]] starred in Se ora -LRB- telenovela -RRB- , alongside  [[Maricarmen_Regueiro|m.0198rw]]
+Fatto 4: [[Maricarmen_Regueiro|m.0198rw]] starred in Se ora -LRB- telenovela -RRB- , alongside  [[Se?ora_(telenovela)|m.0fkbfw]]
+
+
+Frase Iniziale: Warren Mears , the leader of the gang , is almost entirely driven by greed and lust for power ; whereas Jonathan Levinson apparently joined the gang for excitement , being shocked by Warren Mears 's ruthlessness and eventually helping to save Buffy Summers 's life .
+[[Warren_Mears|m.01gxny]]
+[[Jonathan_Levinson|m.0b2gxp]]
+[[Warren_Mears|m.01gxny]]
+[[Buffy_Summers|m.0b41h]]
+Frase relazionale: Warren Mears , the leader of the gang , is almost entirely driven by 
+
+
+Frase Iniziale: Although Xander Harris , Anya Jenkins , Spike (Buffy the Vampire Slayer) , and Dawn Summers are happy to let him interview them , Buffy Summers is angered by his attempt to turn everything into a story and forces him to finally face up to the seriousness of his actions .
+[[Xander_Harris|m.01955l]]
+[[Anya_Jenkins|m.014s59]]
+[[Spike_(Buffy_the_Vampire_Slayer)|m.0jz06]]
+[[Dawn_Summers|m.014vcs]]
+[[Buffy_Summers|m.0b41h]]
+Frase relazionale: Although Xander Harris , Anya Jenkins , Spike -LRB- Buffy the Vampire Slayer -RRB- , and Dawn Summers are happy to let him interview them , Buffy Summers is angered by his attempt to turn everything into a 
+
+
+Frase Iniziale: It is later Retroactive continuity in the Buffy Summers Buffy the Vampire Slayer Season Eight comics that Andrew had fabricated the notion of Buffy Summers dating the Immortal , both as a measure of protective misdirection and as a way of pranking Angel (Buffy the Vampire Slayer) and Spike (Buffy the Vampire Slayer) due to their history with the Immortal .
+[[Retroactive_continuity|m.06kzv]]
+[[Buffy_Summers|m.0b41h]]
+[[Buffy_the_Vampire_Slayer_Season_Eight|m.0284r17]]
+[[Buffy_Summers|m.0b41h]]
+[[Angel_(Buffy_the_Vampire_Slayer)|m.0339rb]]
+[[Spike_(Buffy_the_Vampire_Slayer)|m.0jz06]]
+Frase relazionale: had fabricated the notion of Buffy Summers dating the Immortal , both as a 
+
+
+Frase Iniziale: Later , in Predators and Prey , Andrew and Buffy Summers team up to hunt down his former charge and rogue Slayer (Buffy the Vampire Slayer) , List of minor Buffy the Vampire Slayer (TV series) characters .
+[[Predators_and_Prey|m.0541w_m]]
+[[Buffy_Summers|m.0b41h]]
+[[Slayer_(Buffy_the_Vampire_Slayer)|m.03k5th]]
+[[Buffy_the_Vampire_Slayer_(TV_series)|m.0cskb]]
+Frase relazionale: Later , in 
+Fatto 1: Later , in  [[Predators_and_Prey|m.0541w_m]]
+Fatto 2: Later , in  [[Predators_and_Prey|m.0541w_m]]
+
+
+Frase Iniziale: Later , in Predators and Prey , Andrew and Buffy Summers team up to hunt down his former charge and rogue Slayer (Buffy the Vampire Slayer) , List of minor Buffy the Vampire Slayer (TV series) characters .
+[[Predators_and_Prey|m.0541w_m]]
+[[Buffy_Summers|m.0b41h]]
+[[Slayer_(Buffy_the_Vampire_Slayer)|m.03k5th]]
+[[Buffy_the_Vampire_Slayer_(TV_series)|m.0cskb]]
+Frase relazionale: Later , in Predators and Prey , Andrew and Buffy Summers team up to 
+Fatto 1: Later , in Predators and Prey , Andrew and Buffy Summers team up to  [[Slayer_(Buffy_the_Vampire_Slayer)|m.03k5th]]
+Fatto 2: Later , in Predators and Prey , Andrew and Buffy Summers team up to  [[Buffy_the_Vampire_Slayer_(TV_series)|m.0cskb]]
+
+
+Frase Iniziale: Rogue Slayer (Buffy the Vampire Slayer) Simone Doffler captured Buffy Summers 's real body and is confused when it seems so weak and is able to convince it to join with her against the real Buffy Summers , Spike (Buffy the Vampire Slayer) , Andrew , and Spike (Buffy the Vampire Slayer) 's crew of space insects .
+[[Slayer_(Buffy_the_Vampire_Slayer)|m.03k5th]]
+[[Buffy_Summers|m.0b41h]]
+[[Buffy_Summers|m.0b41h]]
+[[Spike_(Buffy_the_Vampire_Slayer)|m.0jz06]]
+[[Spike_(Buffy_the_Vampire_Slayer)|m.0jz06]]
+Frase relazionale: Rogue Slayer -LRB- Buffy the Vampire Slayer -RRB- Simone Doffler captured Buffy Summers 's real body and is confused when it seems so weak and is able to convince it to join with her against the real 
+Fatto 1: Rogue Slayer -LRB- Buffy the Vampire Slayer -RRB- Simone Doffler captured Buffy Summers 's real body and is confused when it seems so weak and is able to convince it to join with her against the real  [[Spike_(Buffy_the_Vampire_Slayer)|m.0jz06]]
+Fatto 2: Rogue Slayer -LRB- Buffy the Vampire Slayer -RRB- Simone Doffler captured Buffy Summers 's real body and is confused when it seems so weak and is able to convince it to join with her against the real  [[Spike_(Buffy_the_Vampire_Slayer)|m.0jz06]]
+Fatto 3: Rogue Slayer -LRB- Buffy the Vampire Slayer -RRB- Simone Doffler captured Buffy Summers 's real body and is confused when it seems so weak and is able to convince it to join with her against the real  [[Spike_(Buffy_the_Vampire_Slayer)|m.0jz06]]
+Fatto 4: Rogue Slayer -LRB- Buffy the Vampire Slayer -RRB- Simone Doffler captured Buffy Summers 's real body and is confused when it seems so weak and is able to convince it to join with her against the real  [[Spike_(Buffy_the_Vampire_Slayer)|m.0jz06]]
+
+
+Frase Iniziale: Martin Carthy Order of the British Empire  is an English folk music singer and guitarist who has remained one of the most influential figures in British traditional music , inspiring contemporaries such as Bob Dylan and Paul Simon and later artists such as Richard Thompson (musician) since Martin Carthy emerged as a young musician in the early days of the folk revival .
+[[Martin_Carthy|m.0199j6]]
+[[Order_of_the_British_Empire|m.01f2y9]]
+[[Bob_Dylan|m.01vrncs]]
+[[Paul_Simon|m.0ddkf]]
+[[Richard_Thompson_(musician)|m.0180w8]]
+[[Martin_Carthy|m.0199j6]]
+Frase relazionale: Martin Carthy Order of the British Empire is an English folk music singer and guitarist who has remained one of the most influential figures in British traditional music , inspiring contemporaries such as 
+Fatto 1: Martin Carthy Order of the British Empire is an English folk music singer and guitarist who has remained one of the most influential figures in British traditional music , inspiring contemporaries such as  [[Bob_Dylan|m.01vrncs]]
+Fatto 2: Martin Carthy Order of the British Empire is an English folk music singer and guitarist who has remained one of the most influential figures in British traditional music , inspiring contemporaries such as  [[Paul_Simon|m.0ddkf]]
+
+
+Frase Iniziale: Semi-regulars were dwarf actor David Rappaport who played characters such as Green Nigel '  and the Fonzie-like Shades , Emil Wolk and puppeteer Trevor East Sally James (presenter) with a giant parrot , presumably to fill the void left by Bob Carolgees .
+[[David_Rappaport|m.03f7s4]]
+[[Emil_Wolk|m.03f1dcb]]
+[[Trevor_East|m.0bwgsyf]]
+[[Sally_James_(presenter)|m.091jz0]]
+[[Bob_Carolgees|m.0349m6]]
+Frase relazionale: who played characters such as 
+
+
+Frase Iniziale: Saturday Stayback received much less controversy than O.T.T. , and also introduced new talent such as Phil Cool and Tony Slattery .
+[[Saturday_Stayback|m.0gdfhd]]
+[[O.T.T.|m.091hy3]]
+[[Phil_Cool|m.02y1hr]]
+[[Tony_Slattery|m.02qv3l]]
+Frase relazionale: received much less controversy than O.T.T. , and also introduced new talent such as 
+Fatto 1: [[Saturday_Stayback|m.0gdfhd]] received much less controversy than O.T.T. , and also introduced new talent such as  [[Phil_Cool|m.02y1hr]]
+Fatto 2: [[Saturday_Stayback|m.0gdfhd]] received much less controversy than O.T.T. , and also introduced new talent such as  [[Tony_Slattery|m.02qv3l]]
+
+
+Frase Iniziale: The Safari was used in many adventure films such as the Tarzan , Jungle Jim , and Bomba the Jungle Boy film series up to The Naked Prey  where Cornel Wilde , a white hunter , becomes game himself .
+[[Safari|m.0199b0]]
+[[Tarzan|m.07lk3]]
+[[Jungle_Jim|m.04143my]]
+[[Bomba_the_Jungle_Boy|m.02qj5pt]]
+[[The_Naked_Prey|m.0272kz_]]
+[[Cornel_Wilde|m.01380_]]
+Frase relazionale: was used in many adventure films such as the 
+Fatto 1: [[Safari|m.0199b0]] was used in many adventure films such as the  [[Tarzan|m.07lk3]]
+Fatto 2: [[Safari|m.0199b0]] was used in many adventure films such as the  [[Jungle_Jim|m.04143my]]
+Fatto 3: [[Safari|m.0199b0]] was used in many adventure films such as the  [[Bomba_the_Jungle_Boy|m.02qj5pt]]
+
+
+Frase Iniziale: Passacaglia for lute have been composed by figures such as Alessandro Piccinini , G. H. Kapsberger , Sylvius Leopold Weiss , Esaias Reusner , Count Logy , Robert de Vis?e , Jacques Bittner , Philipp Franz Lesage De Richee , Gleitsmann , Dufaut , Gallot , Denis Gaultier , Ennemond Gaultier , and Roman Turovsky-Savchuk , a Passacaglia for bandura by Julian Kytasty , and for baroque guitar by Paulo Galv?o , Santiago de Murcia , Francisco Guerau , Gaspar Sanz , and Marcello Vitale .
+[[Passacaglia|m.0199v5]]
+[[Alessandro_Piccinini|m.08r06_]]
+[[Kapsberger|m.01tlkhx]]
+[[Sylvius_Leopold_Weiss|m.02y0cz]]
+[[Esaias_Reusner|m.0nhqtz0]]
+[[Robert_de_Vis?e|m.01tz2gw]]
+[[Denis_Gaultier|m.0h2z8]]
+[[Ennemond_Gaultier|m.05c0s1l]]
+[[Roman_Turovsky-Savchuk|m.0gc6vw]]
+[[Passacaglia|m.0199v5]]
+[[Julian_Kytasty|m.026406y]]
+[[Paulo_Galv?o|m.03cczn6]]
+[[Santiago_de_Murcia|m.01tzsgs]]
+[[Francisco_Guerau|m.01w3x1p]]
+[[Gaspar_Sanz|m.078970]]
+[[Marcello_Vitale|m.04cs_9d]]
+Frase relazionale: for lute have been composed by 
+Fatto 1: [[Passacaglia|m.0199v5]] for lute have been composed by  [[Julian_Kytasty|m.026406y]]
+Fatto 2: [[Passacaglia|m.0199v5]] for lute have been composed by  [[Santiago_de_Murcia|m.01tzsgs]]
+Fatto 3: [[Passacaglia|m.0199v5]] for lute have been composed by  [[Francisco_Guerau|m.01w3x1p]]
+Fatto 4: [[Passacaglia|m.0199v5]] for lute have been composed by  [[Gaspar_Sanz|m.078970]]
+Fatto 5: [[Passacaglia|m.0199v5]] for lute have been composed by  [[Marcello_Vitale|m.04cs_9d]]
+
+
+Frase Iniziale: Benjamin Britten also employed the form in smaller vocal forms , such as the Serenade for Tenor, Horn and Strings  and The Holy Sonnets of John Donne  for voice and piano , as well as in purely instrumental compositions , notably in the second and third Cello suites (Britten) , second and third string quartets , the Cello Symphony (Britten) , and the Nocturnal for guitar .
+[[Benjamin_Britten|m.0h6sv]]
+[[Serenade_for_Tenor,_Horn_and_Strings|m.02sw34]]
+[[Cello_suites_(Britten)|m.0cj2pz]]
+[[Cello_Symphony_(Britten)|m.0g03fs]]
+Frase relazionale: also employed the form in smaller vocal 
+Fatto 1: [[Benjamin_Britten|m.0h6sv]] also employed the form in smaller vocal  [[Cello_suites_(Britten)|m.0cj2pz]]
+
+
+Frase Iniziale: Benjamin Britten also employed the form in smaller vocal forms , such as the Serenade for Tenor, Horn and Strings  and The Holy Sonnets of John Donne  for voice and piano , as well as in purely instrumental compositions , notably in the second and third Cello suites (Britten) , second and third string quartets , the Cello Symphony (Britten) , and the Nocturnal for guitar .
+[[Benjamin_Britten|m.0h6sv]]
+[[Serenade_for_Tenor,_Horn_and_Strings|m.02sw34]]
+[[Cello_suites_(Britten)|m.0cj2pz]]
+[[Cello_Symphony_(Britten)|m.0g03fs]]
+Frase relazionale: also employed the form in smaller vocal forms , such as the Serenade for 
+Fatto 1: [[Benjamin_Britten|m.0h6sv]] also employed the form in smaller vocal forms , such as the Serenade for  [[Serenade_for_Tenor,_Horn_and_Strings|m.02sw34]]
+Fatto 2: [[Benjamin_Britten|m.0h6sv]] also employed the form in smaller vocal forms , such as the Serenade for  [[Serenade_for_Tenor,_Horn_and_Strings|m.02sw34]]
+Fatto 3: [[Benjamin_Britten|m.0h6sv]] also employed the form in smaller vocal forms , such as the Serenade for  [[Serenade_for_Tenor,_Horn_and_Strings|m.02sw34]]
+
+
+Frase Iniziale: Predator of Darter are mainly large carnivorous birds , including passerines like the Australian raven  and house crow  , and birds of prey such as marsh harriers  or Pallas's fish eagle  .
+[[Predator|m.0fswb]]
+[[Darter|m.0199p_]]
+[[Australian_raven|m.01f0ft]]
+[[Pallas's_fish_eagle|m.08zk8p]]
+Frase relazionale: of Darter are mainly large carnivorous birds , including passerines like the Australian raven and house crow , and birds of prey such as marsh 
+Fatto 1: [[Predator|m.0fswb]] of Darter are mainly large carnivorous birds , including passerines like the Australian raven and house crow , and birds of prey such as marsh  [[Pallas's_fish_eagle|m.08zk8p]]
+
+
+Frase Iniziale: Predator of Darter are mainly large carnivorous birds , including passerines like the Australian raven  and house crow  , and birds of prey such as marsh harriers  or Pallas's fish eagle  .
+[[Predator|m.0fswb]]
+[[Darter|m.0199p_]]
+[[Australian_raven|m.01f0ft]]
+[[Pallas's_fish_eagle|m.08zk8p]]
+Frase relazionale: of Darter are mainly large carnivorous birds , including 
+
+
+Frase Iniziale: Predator of Darter are mainly large carnivorous birds , including passerines like the Australian raven  and house crow  , and birds of prey such as marsh harriers  or Pallas's fish eagle  .
+[[Predator|m.0fswb]]
+[[Darter|m.0199p_]]
+[[Australian_raven|m.01f0ft]]
+[[Pallas's_fish_eagle|m.08zk8p]]
+Frase relazionale: of Darter are mainly large carnivorous birds , including passerines like the Australian 
+Fatto 1: [[Predator|m.0fswb]] of Darter are mainly large carnivorous birds , including passerines like the Australian  [[Australian_raven|m.01f0ft]]
+
+
+Frase Iniziale: In bipolar disorder , Atypical antipsychotic are most commonly used to rapidly control mania and mixed episodes , often in conjunction with mood stabilizers  such as Lithium (medication) and Sodium valproate .
+[[Atypical_antipsychotic|m.0199xw]]
+[[Lithium_(medication)|m.0d_wbd]]
+[[Sodium_valproate|m.02_mhm]]
+Frase relazionale: are most commonly used to rapidly control mania and mixed episodes , often in conjunction with mood stabilizers such as 
+Fatto 1: [[Atypical_antipsychotic|m.0199xw]] are most commonly used to rapidly control mania and mixed episodes , often in conjunction with mood stabilizers such as  [[Lithium_(medication)|m.0d_wbd]]
+Fatto 2: [[Atypical_antipsychotic|m.0199xw]] are most commonly used to rapidly control mania and mixed episodes , often in conjunction with mood stabilizers such as  [[Sodium_valproate|m.02_mhm]]
+
+
+Frase Iniziale: Even though enclosed , dome Stadium are called Stadium because they are large enough for , and designed for , what are generally considered to be outdoor sports such as athletics , American football , association football , Rugby football , and baseball .
+[[Stadium|m.019cfy]]
+[[Stadium|m.019cfy]]
+[[American_football|m.0jm_]]
+[[Rugby_football|m.06bqd]]
+Frase relazionale: are generally considered to be outdoor sports such as 
+Fatto 1: are generally considered to be outdoor sports such as  [[American_football|m.0jm_]]
+Fatto 2: are generally considered to be outdoor sports such as  [[Rugby_football|m.06bqd]]
+Fatto 3: are generally considered to be outdoor sports such as  [[American_football|m.0jm_]]
+Fatto 4: are generally considered to be outdoor sports such as  [[Rugby_football|m.06bqd]]
+Fatto 5: are generally considered to be outdoor sports such as  [[American_football|m.0jm_]]
+Fatto 6: are generally considered to be outdoor sports such as  [[Rugby_football|m.06bqd]]
+
+
+Frase Iniziale: Even though enclosed , dome Stadium are called Stadium because they are large enough for , and designed for , what are generally considered to be outdoor sports such as athletics , American football , association football , Rugby football , and baseball .
+[[Stadium|m.019cfy]]
+[[Stadium|m.019cfy]]
+[[American_football|m.0jm_]]
+[[Rugby_football|m.06bqd]]
+Frase relazionale: are generally considered to be outdoor sports such as 
+Fatto 1: are generally considered to be outdoor sports such as  [[American_football|m.0jm_]]
+Fatto 2: are generally considered to be outdoor sports such as  [[Rugby_football|m.06bqd]]
+Fatto 3: are generally considered to be outdoor sports such as  [[American_football|m.0jm_]]
+Fatto 4: are generally considered to be outdoor sports such as  [[Rugby_football|m.06bqd]]
+Fatto 5: are generally considered to be outdoor sports such as  [[American_football|m.0jm_]]
+Fatto 6: are generally considered to be outdoor sports such as  [[Rugby_football|m.06bqd]]
+
+
+Frase Iniziale: Poor Stadium design has contributed to disasters , such as the Hillsborough disaster and the Heysel Stadium disaster .
+[[Stadium|m.019cfy]]
+[[Hillsborough_disaster|m.0g7tg]]
+[[Heysel_Stadium_disaster|m.0g7rq]]
+Frase relazionale: has contributed to disasters , such as the 
+Fatto 1: has contributed to disasters , such as the  [[Hillsborough_disaster|m.0g7tg]]
+Fatto 2: has contributed to disasters , such as the  [[Heysel_Stadium_disaster|m.0g7rq]]
+Fatto 3: has contributed to disasters , such as the  [[Hillsborough_disaster|m.0g7tg]]
+Fatto 4: has contributed to disasters , such as the  [[Heysel_Stadium_disaster|m.0g7rq]]
+
+
+Frase Iniziale: Prior to the group 's formation , Ryuichi Sakamoto had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 1970 , including synthesizers such as the Buchla , Moog synthesizer , and ARP Instruments, Inc. .
+[[Ryuichi_Sakamoto|m.06k02]]
+[[Experimental_music|m.03ckfl9]]
+[[Electronic_musical_instrument|m.02qjv]]
+[[Tokyo_National_University_of_Fine_Arts_and_Music|m.0558yl]]
+[[Buchla|m.053j_1]]
+[[Moog_synthesizer|m.01pb1x]]
+[[ARP_Instruments,_Inc.|m.02dvrz]]
+Frase relazionale: had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 1970 , including synthesizers such as the 
+Fatto 1: [[Ryuichi_Sakamoto|m.06k02]] had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 1970 , including synthesizers such as the  [[Buchla|m.053j_1]]
+Fatto 2: [[Ryuichi_Sakamoto|m.06k02]] had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 1970 , including synthesizers such as the  [[Moog_synthesizer|m.01pb1x]]
+Fatto 3: [[Ryuichi_Sakamoto|m.06k02]] had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 1970 , including synthesizers such as the  [[ARP_Instruments,_Inc.|m.02dvrz]]
+
+
+Frase Iniziale: Prior to the group 's formation , Ryuichi Sakamoto had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 1970 , including synthesizers such as the Buchla , Moog synthesizer , and ARP Instruments, Inc. .
+[[Ryuichi_Sakamoto|m.06k02]]
+[[Experimental_music|m.03ckfl9]]
+[[Electronic_musical_instrument|m.02qjv]]
+[[Tokyo_National_University_of_Fine_Arts_and_Music|m.0558yl]]
+[[Buchla|m.053j_1]]
+[[Moog_synthesizer|m.01pb1x]]
+[[ARP_Instruments,_Inc.|m.02dvrz]]
+Frase relazionale: had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 
+
+
+Frase Iniziale: Prior to the group 's formation , Ryuichi Sakamoto had been Experimental music with Electronic musical instrument at the Tokyo National University of Fine Arts and Music , which he entered in 1970 , including synthesizers such as the Buchla , Moog synthesizer , and ARP Instruments, Inc. .
+[[Ryuichi_Sakamoto|m.06k02]]
+[[Experimental_music|m.03ckfl9]]
+[[Electronic_musical_instrument|m.02qjv]]
+[[Tokyo_National_University_of_Fine_Arts_and_Music|m.0558yl]]
+[[Buchla|m.053j_1]]
+[[Moog_synthesizer|m.01pb1x]]
+[[ARP_Instruments,_Inc.|m.02dvrz]]
+Frase relazionale: had been Experimental music with Electronic musical instrument at the Tokyo National University of 
+Fatto 1: [[Ryuichi_Sakamoto|m.06k02]] had been Experimental music with Electronic musical instrument at the Tokyo National University of  [[Tokyo_National_University_of_Fine_Arts_and_Music|m.0558yl]]
+Fatto 2: [[Ryuichi_Sakamoto|m.06k02]] had been Experimental music with Electronic musical instrument at the Tokyo National University of  [[Tokyo_National_University_of_Fine_Arts_and_Music|m.0558yl]]
+
+
+Frase Iniziale: Yellow Magic Orchestra are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling (music) by modern artists , including experimental artist Yamantaka Eye , electronica group LFO  , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital  and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as Michael Jackson , Quincy Jones , Greg Phillinganes , Eric Clapton , Mariah Carey , and Jennifer Lopez .
+[[Yellow_Magic_Orchestra|m.019bmw]]
+[[Sampling_(music)|m.0155s6]]
+[[Yamantaka_Eye|m.05b597]]
+[[Drum_and_bass|m.0283d]]
+[[Uwe_Schmidt|m.01vhpy]]
+[[Ambient_music|m.0fd3y]]
+[[House_music|m.03mb9]]
+[[Afrika_Bambaataa|m.01w29_g]]
+[[Michael_Jackson|m.09889g]]
+[[Quincy_Jones|m.01wd9lv]]
+[[Greg_Phillinganes|m.04f1sk]]
+[[Eric_Clapton|m.02qwg]]
+[[Mariah_Carey|m.04xrx]]
+[[Jennifer_Lopez|m.043zg]]
+Frase relazionale: are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental artist Yamantaka Eye , electronica group LFO , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as 
+Fatto 1: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental artist Yamantaka Eye , electronica group LFO , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as  [[Michael_Jackson|m.09889g]]
+Fatto 2: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental artist Yamantaka Eye , electronica group LFO , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as  [[Quincy_Jones|m.01wd9lv]]
+Fatto 3: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental artist Yamantaka Eye , electronica group LFO , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as  [[Greg_Phillinganes|m.04f1sk]]
+Fatto 4: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental artist Yamantaka Eye , electronica group LFO , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as  [[Eric_Clapton|m.02qwg]]
+Fatto 5: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental artist Yamantaka Eye , electronica group LFO , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as  [[Mariah_Carey|m.04xrx]]
+Fatto 6: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental artist Yamantaka Eye , electronica group LFO , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as  [[Jennifer_Lopez|m.043zg]]
+
+
+Frase Iniziale: Yellow Magic Orchestra are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling (music) by modern artists , including experimental artist Yamantaka Eye , electronica group LFO  , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital  and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as Michael Jackson , Quincy Jones , Greg Phillinganes , Eric Clapton , Mariah Carey , and Jennifer Lopez .
+[[Yellow_Magic_Orchestra|m.019bmw]]
+[[Sampling_(music)|m.0155s6]]
+[[Yamantaka_Eye|m.05b597]]
+[[Drum_and_bass|m.0283d]]
+[[Uwe_Schmidt|m.01vhpy]]
+[[Ambient_music|m.0fd3y]]
+[[House_music|m.03mb9]]
+[[Afrika_Bambaataa|m.01w29_g]]
+[[Michael_Jackson|m.09889g]]
+[[Quincy_Jones|m.01wd9lv]]
+[[Greg_Phillinganes|m.04f1sk]]
+[[Eric_Clapton|m.02qwg]]
+[[Mariah_Carey|m.04xrx]]
+[[Jennifer_Lopez|m.043zg]]
+Frase relazionale: are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental 
+Fatto 1: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental  [[Yamantaka_Eye|m.05b597]]
+Fatto 2: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental  [[Drum_and_bass|m.0283d]]
+
+
+Frase Iniziale: Yellow Magic Orchestra are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling (music) by modern artists , including experimental artist Yamantaka Eye , electronica group LFO  , Drum and bass band 4hero , electrolatino artist Uwe Schmidt , Ambient music House music pioneers The Orb and 808 State , electronic music groups Orbital  and The Human League , hip hop pioneer Afrika Bambaataa , and mainstream pop musicians such as Michael Jackson , Quincy Jones , Greg Phillinganes , Eric Clapton , Mariah Carey , and Jennifer Lopez .
+[[Yellow_Magic_Orchestra|m.019bmw]]
+[[Sampling_(music)|m.0155s6]]
+[[Yamantaka_Eye|m.05b597]]
+[[Drum_and_bass|m.0283d]]
+[[Uwe_Schmidt|m.01vhpy]]
+[[Ambient_music|m.0fd3y]]
+[[House_music|m.03mb9]]
+[[Afrika_Bambaataa|m.01w29_g]]
+[[Michael_Jackson|m.09889g]]
+[[Quincy_Jones|m.01wd9lv]]
+[[Greg_Phillinganes|m.04f1sk]]
+[[Eric_Clapton|m.02qwg]]
+[[Mariah_Carey|m.04xrx]]
+[[Jennifer_Lopez|m.043zg]]
+Frase relazionale: are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental 
+Fatto 1: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental  [[Yamantaka_Eye|m.05b597]]
+Fatto 2: [[Yellow_Magic_Orchestra|m.019bmw]] are considered pioneers in the field of popular electronic music , and continue to be remixed or Sampling -LRB- music -RRB- by modern artists , including experimental  [[Drum_and_bass|m.0283d]]
+
+
+Frase Iniziale: Yellow Magic Orchestra continued to influence later techno musicians such as Surgeon (musician) , Mike Paradinas , and Harald Bl?chel .
+[[Yellow_Magic_Orchestra|m.019bmw]]
+[[Surgeon_(musician)|m.01wbqjb]]
+[[Mike_Paradinas|m.01w9jj]]
+[[Harald_Bl?chel|m.01vvgts]]
+Frase relazionale: continued to influence later techno musicians such as 
+Fatto 1: [[Yellow_Magic_Orchestra|m.019bmw]] continued to influence later techno musicians such as  [[Surgeon_(musician)|m.01wbqjb]]
+Fatto 2: [[Yellow_Magic_Orchestra|m.019bmw]] continued to influence later techno musicians such as  [[Mike_Paradinas|m.01w9jj]]
+Fatto 3: [[Yellow_Magic_Orchestra|m.019bmw]] continued to influence later techno musicians such as  [[Harald_Bl?chel|m.01vvgts]]
+
+
+Frase Iniziale: While Steve Winwood was still a pupil at the Great Barr School , Steve Winwood was a part of the Birmingham rhythm and blues scene , playing the Hammond Organ and guitar , backing blues singers such as Muddy Waters , John Lee Hooker , T-Bone Walker , Howlin' Wolf , B.B. King , Sonny Boy Williamson II , Eddie Boyd , Otis Spann , Chuck Berry and Bo Diddley on their United Kingdom tours , the custom at that time being for US singers to travel solo and be backed by pickup bands .
+[[Steve_Winwood|m.01vn35l]]
+[[Great_Barr_School|m.02898sh]]
+[[Steve_Winwood|m.01vn35l]]
+[[Hammond_Organ|m.03gvt]]
+[[Muddy_Waters|m.01w36yx]]
+[[John_Lee_Hooker|m.0411q]]
+[[T-Bone_Walker|m.0164gr]]
+[[Howlin'_Wolf|m.0165hs]]
+[[B.B._King|m.01w60_p]]
+[[Sonny_Boy_Williamson_II|m.01rclp]]
+[[Eddie_Boyd|m.01x2ch3]]
+[[Otis_Spann|m.01jsgxb]]
+[[Chuck_Berry|m.01wz_ml]]
+[[Bo_Diddley|m.01vtg4q]]
+[[United_Kingdom|m.07ssc]]
+Frase relazionale: While Steve Winwood was still a pupil at the Great Barr School , Steve Winwood was a part of the Birmingham rhythm and blues scene , playing the Hammond Organ and guitar , backing blues singers such as 
+Fatto 1: While Steve Winwood was still a pupil at the Great Barr School , Steve Winwood was a part of the Birmingham rhythm and blues scene , playing the Hammond Organ and guitar , backing blues singers such as  [[Muddy_Waters|m.01w36yx]]
+Fatto 2: While Steve Winwood was still a pupil at the Great Barr School , Steve Winwood was a part of the Birmingham rhythm and blues scene , playing the Hammond Organ and guitar , backing blues singers such as  [[John_Lee_Hooker|m.0411q]]
+Fatto 3: While Steve Winwood was still a pupil at the Great Barr School , Steve Winwood was a part of the Birmingham rhythm and blues scene , playing the Hammond Organ and guitar , backing blues singers such as  [[T-Bone_Walker|m.0164gr]]
+Fatto 4: While Steve Winwood was still a pupil at the Great Barr School , Steve Winwood was a part of the Birmingham rhythm and blues scene , playing the Hammond Organ and guitar , backing blues singers such as  [[B.B._King|m.01w60_p]]
+Fatto 5: While Steve Winwood was still a pupil at the Great Barr School , Steve Winwood was a part of the Birmingham rhythm and blues scene , playing the Hammond Organ and guitar , backing blues singers such as  [[United_Kingdom|m.07ssc]]
+Fatto 6: While Steve Winwood was still a pupil at the Great Barr School , Steve Winwood was a part of the Birmingham rhythm and blues scene , playing the Hammond Organ and guitar , backing blues singers such as  [[Sonny_Boy_Williamson_II|m.01rclp]]
+Fatto 7: While Steve Winwood was still a pupil at the Great Barr School , Steve Winwood was a part of the Birmingham rhythm and blues scene , playing the Hammond Organ and guitar , backing blues singers such as  [[Eddie_Boyd|m.01x2ch3]]
+Fatto 8: While Steve Winwood was still a pupil at the Great Barr School , Steve Winwood was a part of the Birmingham rhythm and blues scene , playing the Hammond Organ and guitar , backing blues singers such as  [[Otis_Spann|m.01jsgxb]]
+Fatto 9: While Steve Winwood was still a pupil at the Great Barr School , Steve Winwood was a part of the Birmingham rhythm and blues scene , playing the Hammond Organ and guitar , backing blues singers such as  [[Chuck_Berry|m.01wz_ml]]
+Fatto 10: While Steve Winwood was still a pupil at the Great Barr School , Steve Winwood was a part of the Birmingham rhythm and blues scene , playing the Hammond Organ and guitar , backing blues singers such as  [[Bo_Diddley|m.01vtg4q]]
+
+
+Frase Iniziale: While Steve Winwood was still a pupil at the Great Barr School , Steve Winwood was a part of the Birmingham rhythm and blues scene , playing the Hammond Organ and guitar , backing blues singers such as Muddy Waters , John Lee Hooker , T-Bone Walker , Howlin' Wolf , B.B. King , Sonny Boy Williamson II , Eddie Boyd , Otis Spann , Chuck Berry and Bo Diddley on their United Kingdom tours , the custom at that time being for US singers to travel solo and be backed by pickup bands .
+[[Steve_Winwood|m.01vn35l]]
+[[Great_Barr_School|m.02898sh]]
+[[Steve_Winwood|m.01vn35l]]
+[[Hammond_Organ|m.03gvt]]
+[[Muddy_Waters|m.01w36yx]]
+[[John_Lee_Hooker|m.0411q]]
+[[T-Bone_Walker|m.0164gr]]
+[[Howlin'_Wolf|m.0165hs]]
+[[B.B._King|m.01w60_p]]
+[[Sonny_Boy_Williamson_II|m.01rclp]]
+[[Eddie_Boyd|m.01x2ch3]]
+[[Otis_Spann|m.01jsgxb]]
+[[Chuck_Berry|m.01wz_ml]]
+[[Bo_Diddley|m.01vtg4q]]
+[[United_Kingdom|m.07ssc]]
+Frase relazionale: While Steve Winwood was still a pupil at the Great Barr School , Steve Winwood was a part of the 
+
+
+Frase Iniziale: Compression artifact occur in many common media such as DVD , common computer file formats such as JPEG , MP3 , or MPEG files , and some alternatives to the compact disc , such as Sony MiniDisc format .
+[[Compression_artifact|m.019crl]]
+[[DVD|m.029j_]]
+[[JPEG|m.0220vh_]]
+[[MP3|m.04zc0]]
+[[MPEG|m.0514p]]
+[[Sony|m.06q07]]
+[[MiniDisc|m.0c055]]
+Frase relazionale: occur in many common media such as 
+Fatto 1: [[Compression_artifact|m.019crl]] occur in many common media such as  [[DVD|m.029j_]]
+
+
+Frase Iniziale: Compression artifact occur in many common media such as DVD , common computer file formats such as JPEG , MP3 , or MPEG files , and some alternatives to the compact disc , such as Sony MiniDisc format .
+[[Compression_artifact|m.019crl]]
+[[DVD|m.029j_]]
+[[JPEG|m.0220vh_]]
+[[MP3|m.04zc0]]
+[[MPEG|m.0514p]]
+[[Sony|m.06q07]]
+[[MiniDisc|m.0c055]]
+Frase relazionale: occur in many common media such as DVD , common computer file formats such as 
+Fatto 1: [[Compression_artifact|m.019crl]] occur in many common media such as DVD , common computer file formats such as  [[JPEG|m.0220vh_]]
+Fatto 2: [[Compression_artifact|m.019crl]] occur in many common media such as DVD , common computer file formats such as  [[MP3|m.04zc0]]
+
+
+Frase Iniziale: Compression artifact occur in many common media such as DVD , common computer file formats such as JPEG , MP3 , or MPEG files , and some alternatives to the compact disc , such as Sony MiniDisc format .
+[[Compression_artifact|m.019crl]]
+[[DVD|m.029j_]]
+[[JPEG|m.0220vh_]]
+[[MP3|m.04zc0]]
+[[MPEG|m.0514p]]
+[[Sony|m.06q07]]
+[[MiniDisc|m.0c055]]
+Frase relazionale: occur in many common 
+
+
+Frase Iniziale: An Infraspecific name (botany) includes the species binomial , and one infraspecific epithet , such as Subspecies or Variety (botany) .
+[[Infraspecific_name_(botany)|m.082glx]]
+[[Subspecies|m.019dpj]]
+[[Variety_(botany)|m.01nldp]]
+Frase relazionale: -LRB- botany -RRB- includes the species binomial , and one infraspecific epithet , such as 
+Fatto 1: [[Infraspecific_name_(botany)|m.082glx]] -LRB- botany -RRB- includes the species binomial , and one infraspecific epithet , such as  [[Subspecies|m.019dpj]]
+Fatto 2: [[Infraspecific_name_(botany)|m.082glx]] -LRB- botany -RRB- includes the species binomial , and one infraspecific epithet , such as  [[Infraspecific_name_(botany)|m.082glx]]
+Fatto 3: [[Infraspecific_name_(botany)|m.082glx]] -LRB- botany -RRB- includes the species binomial , and one infraspecific epithet , such as  [[Variety_(botany)|m.01nldp]]
+
+
+Frase Iniziale: ??ngrid Betancourt also met with international heads of state and international personalities such as Secretary General of the United Nations Ban Ki-moon , Pope Benedict XVI , King Juan Carlos of Spain and Prime Minister Jos? Luis Rodr?guez Zapatero , President ??lvaro Uribe of Colombia , President Hugo Ch?vez of Venezuela and President Cristina Kirchner of Argentina .
+[[??ngrid_Betancourt|m.019d8_]]
+[[Secretary_General_of_the_United_Nations|m.015ks2]]
+[[Ban_Ki-moon|m.075jlq]]
+[[Pope_Benedict_XVI|m.09wpt]]
+[[King_Juan_Carlos|m.0k1hz]]
+[[Jos?_Luis_Rodr?guez_Zapatero|m.01p2pb]]
+[[??lvaro_Uribe|m.01kb1b]]
+[[Colombia|m.01ls2]]
+[[Hugo_Ch?vez|m.0d1b_]]
+[[Venezuela|m.07ylj]]
+[[Cristina_Kirchner|m.05k5_1]]
+Frase relazionale: lvaro Uribe of 
+Fatto 1: lvaro Uribe of  [[Hugo_Ch?vez|m.0d1b_]]
+Fatto 2: lvaro Uribe of  [[Venezuela|m.07ylj]]
+Fatto 3: lvaro Uribe of  [[Cristina_Kirchner|m.05k5_1]]
+
+
+Frase Iniziale: Tiruchirappalli was home to some of the prominent Carnatic musicians -- including Lalgudi Jayaraman , Srirangam Kannan and A. P. J. Abdul Kalam K. C. Rajagopalachari Natarajan -- and scholars such as T. K. Ramamoorthy S. Murugesan Pillai , Kundalam Rangachariar and K. A. P. J. Abdul Kalam P. Madhuri Viswanatham .
+[[Tiruchirappalli|m.019flv]]
+[[Lalgudi_Jayaraman|m.01rywq3]]
+[[Srirangam_Kannan|m.0bwg4t7]]
+[[A._P._J._Abdul_Kalam|m.0gy3f]]
+[[C._Rajagopalachari|m.01h_yd]]
+[[T._K._Ramamoorthy|m.058m0p7]]
+[[Kundalam_Rangachariar|m.07kb6th]]
+[[A._P._J._Abdul_Kalam|m.0gy3f]]
+[[P._Madhuri|m.04q2h9j]]
+Frase relazionale: was home to some of the prominent Carnatic musicians -- including Lalgudi Jayaraman , Srirangam Kannan and A. P. J. Abdul Kalam K. C. Rajagopalachari Natarajan -- and scholars such as 
+Fatto 1: [[Tiruchirappalli|m.019flv]] was home to some of the prominent Carnatic musicians -- including Lalgudi Jayaraman , Srirangam Kannan and A. P. J. Abdul Kalam K. C. Rajagopalachari Natarajan -- and scholars such as  [[Kundalam_Rangachariar|m.07kb6th]]
+
+
+Frase Iniziale: Tiruchirappalli was home to some of the prominent Carnatic musicians -- including Lalgudi Jayaraman , Srirangam Kannan and A. P. J. Abdul Kalam K. C. Rajagopalachari Natarajan -- and scholars such as T. K. Ramamoorthy S. Murugesan Pillai , Kundalam Rangachariar and K. A. P. J. Abdul Kalam P. Madhuri Viswanatham .
+[[Tiruchirappalli|m.019flv]]
+[[Lalgudi_Jayaraman|m.01rywq3]]
+[[Srirangam_Kannan|m.0bwg4t7]]
+[[A._P._J._Abdul_Kalam|m.0gy3f]]
+[[C._Rajagopalachari|m.01h_yd]]
+[[T._K._Ramamoorthy|m.058m0p7]]
+[[Kundalam_Rangachariar|m.07kb6th]]
+[[A._P._J._Abdul_Kalam|m.0gy3f]]
+[[P._Madhuri|m.04q2h9j]]
+Frase relazionale: Tiruchirappalli was home to some of the prominent Carnatic musicians -- including 
+Fatto 1: Tiruchirappalli was home to some of the prominent Carnatic musicians -- including  [[Lalgudi_Jayaraman|m.01rywq3]]
+Fatto 2: Tiruchirappalli was home to some of the prominent Carnatic musicians -- including  [[Srirangam_Kannan|m.0bwg4t7]]
+
+
+Frase Iniziale: Tiruchirappalli was home to some of the prominent Carnatic musicians -- including Lalgudi Jayaraman , Srirangam Kannan and A. P. J. Abdul Kalam K. C. Rajagopalachari Natarajan -- and scholars such as T. K. Ramamoorthy S. Murugesan Pillai , Kundalam Rangachariar and K. A. P. J. Abdul Kalam P. Madhuri Viswanatham .
+[[Tiruchirappalli|m.019flv]]
+[[Lalgudi_Jayaraman|m.01rywq3]]
+[[Srirangam_Kannan|m.0bwg4t7]]
+[[A._P._J._Abdul_Kalam|m.0gy3f]]
+[[C._Rajagopalachari|m.01h_yd]]
+[[T._K._Ramamoorthy|m.058m0p7]]
+[[Kundalam_Rangachariar|m.07kb6th]]
+[[A._P._J._Abdul_Kalam|m.0gy3f]]
+[[P._Madhuri|m.04q2h9j]]
+Frase relazionale: was home to some of the prominent Carnatic musicians -- including Lalgudi Jayaraman , Srirangam Kannan and A. P. J. Abdul Kalam K. C. Rajagopalachari Natarajan -- and scholars such as 
+Fatto 1: [[Tiruchirappalli|m.019flv]] was home to some of the prominent Carnatic musicians -- including Lalgudi Jayaraman , Srirangam Kannan and A. P. J. Abdul Kalam K. C. Rajagopalachari Natarajan -- and scholars such as  [[Kundalam_Rangachariar|m.07kb6th]]
+
+
+Frase Iniziale: Tiruchirappalli was home to some of the prominent Carnatic musicians -- including Lalgudi Jayaraman , Srirangam Kannan and A. P. J. Abdul Kalam K. C. Rajagopalachari Natarajan -- and scholars such as T. K. Ramamoorthy S. Murugesan Pillai , Kundalam Rangachariar and K. A. P. J. Abdul Kalam P. Madhuri Viswanatham .
+[[Tiruchirappalli|m.019flv]]
+[[Lalgudi_Jayaraman|m.01rywq3]]
+[[Srirangam_Kannan|m.0bwg4t7]]
+[[A._P._J._Abdul_Kalam|m.0gy3f]]
+[[C._Rajagopalachari|m.01h_yd]]
+[[T._K._Ramamoorthy|m.058m0p7]]
+[[Kundalam_Rangachariar|m.07kb6th]]
+[[A._P._J._Abdul_Kalam|m.0gy3f]]
+[[P._Madhuri|m.04q2h9j]]
+Frase relazionale: Tiruchirappalli was home to some of the prominent Carnatic musicians -- including 
+Fatto 1: Tiruchirappalli was home to some of the prominent Carnatic musicians -- including  [[Lalgudi_Jayaraman|m.01rywq3]]
+Fatto 2: Tiruchirappalli was home to some of the prominent Carnatic musicians -- including  [[Srirangam_Kannan|m.0bwg4t7]]
+
+
+Frase Iniziale: Mirza Ghulam Ahmad is seen as the Second coming and the Mahdi , fulfilling Islamic and Biblical Bible Prophecy , as well as scriptures of other religions such as Hinduism .
+[[Mirza_Ghulam_Ahmad|m.02czgg]]
+[[Second_coming|m.0724w]]
+[[Mahdi|m.019vqj]]
+[[Biblical|m.015j7]]
+[[Bible_Prophecy|m.0725cc]]
+[[Hinduism|m.03j6c]]
+Frase relazionale: is seen as the 
+Fatto 1: [[Mirza_Ghulam_Ahmad|m.02czgg]] is seen as the  [[Second_coming|m.0724w]]
+Fatto 2: [[Mirza_Ghulam_Ahmad|m.02czgg]] is seen as the  [[Mahdi|m.019vqj]]
+
+
+Frase Iniziale: The Royal Scottish Country Dance Society  , was founded in 1923 as the Royal Scottish Country Dance Society by Jean Milligan and Ysobel Stewart of Fasnacloich , who wanted to preserve Scottish country dance as performed in Scotland , Scottish country dance having fallen into disuse after the influx of continental ballroom dances such as the waltz or quadrilles and , later on , American-style dances like the One-step or Foxtrot (dance) .
+[[Royal_Scottish_Country_Dance_Society|m.019fqv]]
+[[Royal_Scottish_Country_Dance_Society|m.019fqv]]
+[[Fasnacloich|m.0108m8yr]]
+[[Scottish_country_dance|m.0h2s1]]
+[[Scotland|m.06q1r]]
+[[Scottish_country_dance|m.0h2s1]]
+[[One-step|m.04y9r2s]]
+[[Foxtrot_(dance)|m.01dyt1]]
+Frase relazionale: , who wanted to preserve Scottish country dance as performed in Scotland , Scottish country dance having fallen into disuse after the influx of continental ballroom dances such as the 
+
+
+Frase Iniziale: The Royal Scottish Country Dance Society  , was founded in 1923 as the Royal Scottish Country Dance Society by Jean Milligan and Ysobel Stewart of Fasnacloich , who wanted to preserve Scottish country dance as performed in Scotland , Scottish country dance having fallen into disuse after the influx of continental ballroom dances such as the waltz or quadrilles and , later on , American-style dances like the One-step or Foxtrot (dance) .
+[[Royal_Scottish_Country_Dance_Society|m.019fqv]]
+[[Royal_Scottish_Country_Dance_Society|m.019fqv]]
+[[Fasnacloich|m.0108m8yr]]
+[[Scottish_country_dance|m.0h2s1]]
+[[Scotland|m.06q1r]]
+[[Scottish_country_dance|m.0h2s1]]
+[[One-step|m.04y9r2s]]
+[[Foxtrot_(dance)|m.01dyt1]]
+Frase relazionale: , who wanted to preserve Scottish country dance as performed in Scotland , Scottish country dance having fallen into disuse after the influx of continental ballroom dances such as the waltz or quadrilles and , later on , American-style dances like the 
+Fatto 1: [[Fasnacloich|m.0108m8yr]] , who wanted to preserve Scottish country dance as performed in Scotland , Scottish country dance having fallen into disuse after the influx of continental ballroom dances such as the waltz or quadrilles and , later on , American-style dances like the  [[One-step|m.04y9r2s]]
+Fatto 2: [[Fasnacloich|m.0108m8yr]] , who wanted to preserve Scottish country dance as performed in Scotland , Scottish country dance having fallen into disuse after the influx of continental ballroom dances such as the waltz or quadrilles and , later on , American-style dances like the  [[Foxtrot_(dance)|m.01dyt1]]
+
+
+Frase Iniziale: The Royal Scottish Country Dance Society  , was founded in 1923 as the Royal Scottish Country Dance Society by Jean Milligan and Ysobel Stewart of Fasnacloich , who wanted to preserve Scottish country dance as performed in Scotland , Scottish country dance having fallen into disuse after the influx of continental ballroom dances such as the waltz or quadrilles and , later on , American-style dances like the One-step or Foxtrot (dance) .
+[[Royal_Scottish_Country_Dance_Society|m.019fqv]]
+[[Royal_Scottish_Country_Dance_Society|m.019fqv]]
+[[Fasnacloich|m.0108m8yr]]
+[[Scottish_country_dance|m.0h2s1]]
+[[Scotland|m.06q1r]]
+[[Scottish_country_dance|m.0h2s1]]
+[[One-step|m.04y9r2s]]
+[[Foxtrot_(dance)|m.01dyt1]]
+Frase relazionale: The Royal Scottish Country Dance Society , was founded in 1923 as the Royal Scottish Country Dance Society by 
+
+
+Frase Iniziale: The T-72 has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the anti-government Free Syrian Army rebels and jihadists groups such as the Islamic Front (Syria) and the Islamic State of Iraq and Syria .
+[[T-72|m.019frm]]
+[[Syrian_Civil_War|m.0gg506b]]
+[[Syrian_Arab_Army|m.04n7jf6]]
+[[Free_Syrian_Army|m.0h3xpcx]]
+[[Islamic_Front_(Syria)|m.0zbwwg5]]
+[[Islamic_State_of_Iraq_and_Syria|m.027x630]]
+Frase relazionale: has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the anti-government Free Syrian Army rebels and jihadists groups such as the Islamic 
+Fatto 1: [[T-72|m.019frm]] has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the anti-government Free Syrian Army rebels and jihadists groups such as the Islamic  [[Islamic_Front_(Syria)|m.0zbwwg5]]
+Fatto 2: [[T-72|m.019frm]] has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the anti-government Free Syrian Army rebels and jihadists groups such as the Islamic  [[Islamic_State_of_Iraq_and_Syria|m.027x630]]
+
+
+Frase Iniziale: The T-72 has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the anti-government Free Syrian Army rebels and jihadists groups such as the Islamic Front (Syria) and the Islamic State of Iraq and Syria .
+[[T-72|m.019frm]]
+[[Syrian_Civil_War|m.0gg506b]]
+[[Syrian_Arab_Army|m.04n7jf6]]
+[[Free_Syrian_Army|m.0h3xpcx]]
+[[Islamic_Front_(Syria)|m.0zbwwg5]]
+[[Islamic_State_of_Iraq_and_Syria|m.027x630]]
+Frase relazionale: has been in extensive use in the Syrian Civil War by the Syrian 
+Fatto 1: [[T-72|m.019frm]] has been in extensive use in the Syrian Civil War by the Syrian  [[Syrian_Arab_Army|m.04n7jf6]]
+Fatto 2: [[T-72|m.019frm]] has been in extensive use in the Syrian Civil War by the Syrian  [[Free_Syrian_Army|m.0h3xpcx]]
+
+
+Frase Iniziale: The T-72 has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the anti-government Free Syrian Army rebels and jihadists groups such as the Islamic Front (Syria) and the Islamic State of Iraq and Syria .
+[[T-72|m.019frm]]
+[[Syrian_Civil_War|m.0gg506b]]
+[[Syrian_Arab_Army|m.04n7jf6]]
+[[Free_Syrian_Army|m.0h3xpcx]]
+[[Islamic_Front_(Syria)|m.0zbwwg5]]
+[[Islamic_State_of_Iraq_and_Syria|m.027x630]]
+Frase relazionale: has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the anti-government Free Syrian Army rebels and jihadists groups such as the Islamic Front -LRB- Syria -RRB- and the Islamic State of 
+Fatto 1: [[T-72|m.019frm]] has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the anti-government Free Syrian Army rebels and jihadists groups such as the Islamic Front -LRB- Syria -RRB- and the Islamic State of  [[Islamic_State_of_Iraq_and_Syria|m.027x630]]
+Fatto 2: [[T-72|m.019frm]] has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the anti-government Free Syrian Army rebels and jihadists groups such as the Islamic Front -LRB- Syria -RRB- and the Islamic State of  [[Syrian_Civil_War|m.0gg506b]]
+Fatto 3: [[T-72|m.019frm]] has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the anti-government Free Syrian Army rebels and jihadists groups such as the Islamic Front -LRB- Syria -RRB- and the Islamic State of  [[Syrian_Arab_Army|m.04n7jf6]]
+Fatto 4: [[T-72|m.019frm]] has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the anti-government Free Syrian Army rebels and jihadists groups such as the Islamic Front -LRB- Syria -RRB- and the Islamic State of  [[Free_Syrian_Army|m.0h3xpcx]]
+Fatto 5: [[T-72|m.019frm]] has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the anti-government Free Syrian Army rebels and jihadists groups such as the Islamic Front -LRB- Syria -RRB- and the Islamic State of  [[Islamic_Front_(Syria)|m.0zbwwg5]]
+Fatto 6: [[T-72|m.019frm]] has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the anti-government Free Syrian Army rebels and jihadists groups such as the Islamic Front -LRB- Syria -RRB- and the Islamic State of  [[Islamic_State_of_Iraq_and_Syria|m.027x630]]
+
+
+Frase Iniziale: The T-72 has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the anti-government Free Syrian Army rebels and jihadists groups such as the Islamic Front (Syria) and the Islamic State of Iraq and Syria .
+[[T-72|m.019frm]]
+[[Syrian_Civil_War|m.0gg506b]]
+[[Syrian_Arab_Army|m.04n7jf6]]
+[[Free_Syrian_Army|m.0h3xpcx]]
+[[Islamic_Front_(Syria)|m.0zbwwg5]]
+[[Islamic_State_of_Iraq_and_Syria|m.027x630]]
+Frase relazionale: has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the 
+Fatto 1: [[T-72|m.019frm]] has been in extensive use in the Syrian Civil War by the Syrian Arab Army since 2011 and quite a few captured examples are used by the  [[Free_Syrian_Army|m.0h3xpcx]]
+
+
+Frase Iniziale: At Apple Worldwide Developers Conference  2013 , Apple Inc. announced ITunes Radio , geared to be an obvious competitor to preexisting streaming/radio services such as Pandora Radio , Spotify , Slacker Radio , and several others .
+[[Apple_Worldwide_Developers_Conference|m.024ym1]]
+[[Apple_Inc.|m.0k8z]]
+[[ITunes|m.019g58]]
+[[Pandora_Radio|m.091zgm]]
+[[Spotify|m.04yhd6c]]
+[[Slacker_Radio|m.02x0d74]]
+Frase relazionale: announced ITunes Radio , geared to be an obvious competitor to preexisting streaming/radio services such as 
+Fatto 1: [[Apple_Inc.|m.0k8z]] announced ITunes Radio , geared to be an obvious competitor to preexisting streaming/radio services such as  [[Pandora_Radio|m.091zgm]]
+Fatto 2: [[Apple_Inc.|m.0k8z]] announced ITunes Radio , geared to be an obvious competitor to preexisting streaming/radio services such as  [[Slacker_Radio|m.02x0d74]]
+Fatto 3: [[Apple_Inc.|m.0k8z]] announced ITunes Radio , geared to be an obvious competitor to preexisting streaming/radio services such as  [[Spotify|m.04yhd6c]]
+Fatto 4: [[Apple_Inc.|m.0k8z]] announced ITunes Radio , geared to be an obvious competitor to preexisting streaming/radio services such as  [[Pandora_Radio|m.091zgm]]
+Fatto 5: [[Apple_Inc.|m.0k8z]] announced ITunes Radio , geared to be an obvious competitor to preexisting streaming/radio services such as  [[Slacker_Radio|m.02x0d74]]
+
+
+Frase Iniziale: File Transfer Protocol , SMTP , HTTP and the usual web languages such as PHP and Perl are supported by Microsoft Personal Web Server .
+[[File_Transfer_Protocol|m.0dzxs]]
+[[SMTP|m.06wsp]]
+[[HTTP|m.03hgt]]
+[[PHP|m.060kv]]
+[[Perl|m.05zrn]]
+[[Microsoft_Personal_Web_Server|m.019g_6]]
+Frase relazionale: File Transfer Protocol , SMTP , HTTP and the usual web languages such as 
+Fatto 1: File Transfer Protocol , SMTP , HTTP and the usual web languages such as  [[PHP|m.060kv]]
+Fatto 2: File Transfer Protocol , SMTP , HTTP and the usual web languages such as  [[Perl|m.05zrn]]
+
+
+Frase Iniziale: Rajneesh spoke on major spiritual traditions including Jainism , Hinduism , Hasidic Judaism , Tantrism , Taoism , Christianity , Buddhism , on a variety of Eastern and Western mystics and on sacred scriptures such as the Upanishad and the Guru Granth Sahib .
+[[Rajneesh|m.019fxc]]
+[[Jainism|m.042s9]]
+[[Hinduism|m.03j6c]]
+[[Hasidic_Judaism|m.03r6w]]
+[[Tantrism|m.07qgx]]
+[[Taoism|m.07gvx]]
+[[Christianity|m.01lp8]]
+[[Buddhism|m.092bf5]]
+[[Upanishad|m.0kvrv]]
+[[Guru_Granth_Sahib|m.02l0r9]]
+Frase relazionale: Rajneesh spoke on major spiritual traditions including Jainism , Hinduism , Hasidic Judaism , Tantrism , Taoism , Christianity , Buddhism , on a variety of Eastern and Western mystics and on sacred scriptures such as the 
+Fatto 1: Rajneesh spoke on major spiritual traditions including Jainism , Hinduism , Hasidic Judaism , Tantrism , Taoism , Christianity , Buddhism , on a variety of Eastern and Western mystics and on sacred scriptures such as the  [[Upanishad|m.0kvrv]]
+Fatto 2: Rajneesh spoke on major spiritual traditions including Jainism , Hinduism , Hasidic Judaism , Tantrism , Taoism , Christianity , Buddhism , on a variety of Eastern and Western mystics and on sacred scriptures such as the  [[Guru_Granth_Sahib|m.02l0r9]]
+
+
+Frase Iniziale: Rajneesh spoke on major spiritual traditions including Jainism , Hinduism , Hasidic Judaism , Tantrism , Taoism , Christianity , Buddhism , on a variety of Eastern and Western mystics and on sacred scriptures such as the Upanishad and the Guru Granth Sahib .
+[[Rajneesh|m.019fxc]]
+[[Jainism|m.042s9]]
+[[Hinduism|m.03j6c]]
+[[Hasidic_Judaism|m.03r6w]]
+[[Tantrism|m.07qgx]]
+[[Taoism|m.07gvx]]
+[[Christianity|m.01lp8]]
+[[Buddhism|m.092bf5]]
+[[Upanishad|m.0kvrv]]
+[[Guru_Granth_Sahib|m.02l0r9]]
+Frase relazionale: spoke on major spiritual 
+
+
+Frase Iniziale: Rajneesh spoke on major spiritual traditions including Jainism , Hinduism , Hasidic Judaism , Tantrism , Taoism , Christianity , Buddhism , on a variety of Eastern and Western mystics and on sacred scriptures such as the Upanishad and the Guru Granth Sahib .
+[[Rajneesh|m.019fxc]]
+[[Jainism|m.042s9]]
+[[Hinduism|m.03j6c]]
+[[Hasidic_Judaism|m.03r6w]]
+[[Tantrism|m.07qgx]]
+[[Taoism|m.07gvx]]
+[[Christianity|m.01lp8]]
+[[Buddhism|m.092bf5]]
+[[Upanishad|m.0kvrv]]
+[[Guru_Granth_Sahib|m.02l0r9]]
+Frase relazionale: Rajneesh spoke on major spiritual traditions including Jainism , Hinduism , Hasidic Judaism , Tantrism , Taoism , Christianity , Buddhism , on a variety of Eastern and Western mystics and on sacred scriptures such as the 
+Fatto 1: Rajneesh spoke on major spiritual traditions including Jainism , Hinduism , Hasidic Judaism , Tantrism , Taoism , Christianity , Buddhism , on a variety of Eastern and Western mystics and on sacred scriptures such as the  [[Upanishad|m.0kvrv]]
+Fatto 2: Rajneesh spoke on major spiritual traditions including Jainism , Hinduism , Hasidic Judaism , Tantrism , Taoism , Christianity , Buddhism , on a variety of Eastern and Western mystics and on sacred scriptures such as the  [[Guru_Granth_Sahib|m.02l0r9]]
+
+
+Frase Iniziale: Past guests include representatives from studios such as Pixar , Aardman , Weta Workshops and Sony Interactive plus animators Ray Harryhausen , Richard Williams (animator) , Bob Godfrey , Caroline Leaf , Michael Dudok de Wit and Bill Plympton .
+[[Pixar|m.0kk9v]]
+[[Aardman|m.0fk_w]]
+[[Weta_Workshops|m.01cm64]]
+[[Sony_Interactive|m.0h1ctrw]]
+[[Ray_Harryhausen|m.01h11m]]
+[[Richard_Williams_(animator)|m.01cw8j]]
+[[Bob_Godfrey|m.0dcx1z]]
+[[Caroline_Leaf|m.0587zb]]
+[[Michael_Dudok_de_Wit|m.0gr3h0]]
+[[Bill_Plympton|m.032cn9]]
+Frase relazionale: include representatives from studios such as 
+Fatto 1: include representatives from studios such as  [[Pixar|m.0kk9v]]
+Fatto 2: include representatives from studios such as  [[Aardman|m.0fk_w]]
+Fatto 3: include representatives from studios such as  [[Weta_Workshops|m.01cm64]]
+Fatto 4: include representatives from studios such as  [[Sony_Interactive|m.0h1ctrw]]
+
+
+Frase Iniziale: Past guests include representatives from studios such as Pixar , Aardman , Weta Workshops and Sony Interactive plus animators Ray Harryhausen , Richard Williams (animator) , Bob Godfrey , Caroline Leaf , Michael Dudok de Wit and Bill Plympton .
+[[Pixar|m.0kk9v]]
+[[Aardman|m.0fk_w]]
+[[Weta_Workshops|m.01cm64]]
+[[Sony_Interactive|m.0h1ctrw]]
+[[Ray_Harryhausen|m.01h11m]]
+[[Richard_Williams_(animator)|m.01cw8j]]
+[[Bob_Godfrey|m.0dcx1z]]
+[[Caroline_Leaf|m.0587zb]]
+[[Michael_Dudok_de_Wit|m.0gr3h0]]
+[[Bill_Plympton|m.032cn9]]
+Frase relazionale: include representatives from studios such as Pixar , Aardman , Weta Workshops and Sony Interactive plus 
+Fatto 1: include representatives from studios such as Pixar , Aardman , Weta Workshops and Sony Interactive plus  [[Ray_Harryhausen|m.01h11m]]
+Fatto 2: include representatives from studios such as Pixar , Aardman , Weta Workshops and Sony Interactive plus  [[Richard_Williams_(animator)|m.01cw8j]]
+Fatto 3: include representatives from studios such as Pixar , Aardman , Weta Workshops and Sony Interactive plus  [[Bob_Godfrey|m.0dcx1z]]
+Fatto 4: include representatives from studios such as Pixar , Aardman , Weta Workshops and Sony Interactive plus  [[Caroline_Leaf|m.0587zb]]
+Fatto 5: include representatives from studios such as Pixar , Aardman , Weta Workshops and Sony Interactive plus  [[Michael_Dudok_de_Wit|m.0gr3h0]]
+Fatto 6: include representatives from studios such as Pixar , Aardman , Weta Workshops and Sony Interactive plus  [[Bill_Plympton|m.032cn9]]
+
+
+Frase Iniziale: In 1989 , Robert Hanssen handed over extensive information about American planning for Measurement and Signature Intelligence  , an umbrella term for intelligence collected by a wide array of electronic means , such as radar , underwater hydrophones for naval intelligence , spy satellites , and signal intercepts .
+[[Robert_Hanssen|m.019f8r]]
+[[Measurement_and_Signature_Intelligence|m.02gl05]]
+Frase relazionale: handed over extensive information about American planning for Measurement and Signature Intelligence , an umbrella term for intelligence collected by a wide array of electronic means , such as 
+
+
+Frase Iniziale: The M4 Sherman  and British tanks such as the Centurion tank , Churchill tank , and Cromwell tank also entered the war .
+[[M4_Sherman|m.0hdk6]]
+[[Centurion_tank|m.02gqxw]]
+[[Churchill_tank|m.02gjd7]]
+[[Cromwell_tank|m.02hz2y]]
+Frase relazionale: The M4 Sherman and British tanks such as the 
+Fatto 1: The M4 Sherman and British tanks such as the  [[Centurion_tank|m.02gqxw]]
+Fatto 2: The M4 Sherman and British tanks such as the  [[Churchill_tank|m.02gjd7]]
+Fatto 3: The M4 Sherman and British tanks such as the  [[Cromwell_tank|m.02hz2y]]
+Fatto 4: The M4 Sherman and British tanks such as the  [[Centurion_tank|m.02gqxw]]
+Fatto 5: The M4 Sherman and British tanks such as the  [[Churchill_tank|m.02gjd7]]
+Fatto 6: The M4 Sherman and British tanks such as the  [[Cromwell_tank|m.02hz2y]]
+Fatto 7: The M4 Sherman and British tanks such as the  [[Centurion_tank|m.02gqxw]]
+Fatto 8: The M4 Sherman and British tanks such as the  [[Churchill_tank|m.02gjd7]]
+Fatto 9: The M4 Sherman and British tanks such as the  [[Cromwell_tank|m.02hz2y]]
+
+
+Frase Iniziale: In many World War II films , such as Saving Private Ryan , The Battle of Neretva , and Kelly's Heroes , T-34-85 tanks were modified to resemble Tiger I tanks , due to the rarity of the latter vehicle .
+[[World_War_II|m.081pw]]
+[[Saving_Private_Ryan|m.07024]]
+[[The_Battle_of_Neretva|m.06q3fy]]
+[[Kelly's_Heroes|m.03r8x1]]
+[[Tiger_I|m.019jl6]]
+Frase relazionale: In many World War II 
+Fatto 1: In many World War II  [[Kelly's_Heroes|m.03r8x1]]
+
+
+Frase Iniziale: The Sumptuariae Leges of Ancient Rome were various laws passed to prevent inordinate expense  in banquets and dress , such as the use of expensive Tyrian purple dye .
+[[Ancient_Rome|m.02l341]]
+[[Tyrian_purple|m.013c5t]]
+Frase relazionale: of Ancient Rome were various laws passed to prevent inordinate expense in 
+
+
+Frase Iniziale: Patti LaBelle joined a local church choir at the Beulah Baptist Church at ten and performed her first solo two years later , while Patti LaBelle also grew up listening to secular music styles such as rhythm and blues and jazz music .
+[[Patti_LaBelle|m.019f9z]]
+[[Patti_LaBelle|m.019f9z]]
+Frase relazionale: joined a local church choir at the Beulah Baptist Church at ten and performed her first solo two years later , while Patti LaBelle also grew up listening to secular music styles such as 
+
+
+Frase Iniziale: Patti LaBelle joined a local church choir at the Beulah Baptist Church at ten and performed her first solo two years later , while Patti LaBelle also grew up listening to secular music styles such as rhythm and blues and jazz music .
+[[Patti_LaBelle|m.019f9z]]
+[[Patti_LaBelle|m.019f9z]]
+Frase relazionale: joined a local church choir at the 
+
+
+Frase Iniziale: Scholars note that one of the most cited Adi Shankara hagiography by Anandagiri includes stories and legends about historically different people , but all bearing the same name of Sri Shankaracarya or also referred to as Adi Shankara but likely meaning more ancient scholars with names such as Vidya-sankara , Sankara-misra and Sankara-nanda .
+[[Adi_Shankara|m.019fqd]]
+[[Adi_Shankara|m.019fqd]]
+Frase relazionale: bearing the same name of Sri Shankaracarya or also referred to as Adi Shankara but likely meaning more ancient scholars with names such as 
+
+
+Frase Iniziale: Adi Shankara is also widely credited with commentaries on other scriptural works , such as the Vishnu sahasranama and the Sanatsujatiya , but both these are considered apocryphal by scholars who have expressed doubts .
+[[Adi_Shankara|m.019fqd]]
+[[Vishnu_sahasranama|m.03jhh1]]
+[[Sanatsujatiya|m.0bhb0pv]]
+Frase relazionale: Adi Shankara is also widely credited with commentaries on other scriptural works , such as the 
+Fatto 1: Adi Shankara is also widely credited with commentaries on other scriptural works , such as the  [[Vishnu_sahasranama|m.03jhh1]]
+Fatto 2: Adi Shankara is also widely credited with commentaries on other scriptural works , such as the  [[Sanatsujatiya|m.0bhb0pv]]
+
+
+Frase Iniziale: However , Adi Shankara also asserts that Self-knowledge is realized when one 's mind is purified by an ethical life that observes Yamas such as Ahimsa  and Niyama .
+[[Adi_Shankara|m.019fqd]]
+[[Yamas|m.04w9lp]]
+[[Niyama|m.02xk4f]]
+Frase relazionale: is purified by an ethical life that observes Yamas such as 
+Fatto 1: is purified by an ethical life that observes Yamas such as  [[Niyama|m.02xk4f]]
+
+
+Frase Iniziale: Adi Shankara emphasizes the need for ethics such as Akrodha and Yamas during Brahmacharya , stating the lack of ethics as causes that prevent students from attaining knowledge .
+[[Adi_Shankara|m.019fqd]]
+[[Akrodha|m.0_s3n5_]]
+[[Yamas|m.04w9lp]]
+[[Brahmacharya|m.020pf7]]
+Frase relazionale: Adi Shankara emphasizes the need for ethics such as 
+Fatto 1: Adi Shankara emphasizes the need for ethics such as  [[Akrodha|m.0_s3n5_]]
+Fatto 2: Adi Shankara emphasizes the need for ethics such as  [[Yamas|m.04w9lp]]
+
+
+Frase Iniziale: Express trains to Leeds and Scotland such as the Thames-Clyde Express mainly used the Midland 's corollary Erewash Valley Line , returned to it then used the Settle-Carlisle Railway .
+[[Leeds|m.04p3c]]
+[[Scotland|m.06q1r]]
+[[Thames-Clyde_Express|m.027w2qv]]
+[[Erewash_Valley_Line|m.0ch480]]
+[[Settle-Carlisle_Railway|m.01mqvq]]
+Frase relazionale: Express trains to 
+Fatto 1: Express trains to  [[Leeds|m.04p3c]]
+Fatto 2: Express trains to  [[Scotland|m.06q1r]]
+
+
+Frase Iniziale: Expresses to Edinburgh Waverley railway station , such as The Waverley travelled through Corby and Nottingham .
+[[Edinburgh_Waverley_railway_station|m.03dz48]]
+[[The_Waverley|m.027w2nf]]
+[[Corby|m.01dlhl]]
+[[Nottingham|m.09tlh]]
+Frase relazionale: as The Waverley travelled through 
+Fatto 1: as The Waverley travelled through  [[Corby|m.01dlhl]]
+Fatto 2: as The Waverley travelled through  [[Nottingham|m.09tlh]]
+
+
+Frase Iniziale: Industrial units such as Bharat Heavy Electricals Limited  , Golden Rock Railway Workshop and Ordnance Factory Tiruchirappalli  have their factories in Tiruchirappalli .
+[[Bharat_Heavy_Electricals_Limited|m.03ljpz]]
+[[Golden_Rock_Railway_Workshop|m.04y6yw8]]
+[[Ordnance_Factory_Tiruchirappalli|m.0kv80fd]]
+[[Tiruchirappalli|m.019flv]]
+Frase relazionale: Industrial units such as 
+Fatto 1: Industrial units such as  [[Bharat_Heavy_Electricals_Limited|m.03ljpz]]
+Fatto 2: Industrial units such as  [[Golden_Rock_Railway_Workshop|m.04y6yw8]]
+Fatto 3: Industrial units such as  [[Ordnance_Factory_Tiruchirappalli|m.0kv80fd]]
+Fatto 4: Industrial units such as  [[Tiruchirappalli|m.019flv]]
+
+
+Frase Iniziale: Composers , poets and vocalists such as G. Ramanathan , T. K. Ramamoorthy , Vaali (poet) and P. Madhuri , who have made significant contributions to Music of Tamil Nadu hail from the city .
+[[G._Ramanathan|m.0ch2bj5]]
+[[T._K._Ramamoorthy|m.058m0p7]]
+[[Vaali_(poet)|m.02qghd0]]
+[[P._Madhuri|m.04q2h9j]]
+[[Music_of_Tamil_Nadu|m.0117tmxm]]
+Frase relazionale: Composers , poets and vocalists such as 
+Fatto 1: Composers , poets and vocalists such as  [[G._Ramanathan|m.0ch2bj5]]
+Fatto 2: Composers , poets and vocalists such as  [[T._K._Ramamoorthy|m.058m0p7]]
+Fatto 3: Composers , poets and vocalists such as  [[Vaali_(poet)|m.02qghd0]]
+Fatto 4: Composers , poets and vocalists such as  [[P._Madhuri|m.04q2h9j]]
+
+
+Frase Iniziale: Post-Exilic Hebrew books of prophecy such as Book of Daniel and Book of Ezekiel are given new Christian views on the Old Covenant in this tradition , while in apocalyptic literature appear in the Judeo-Christian Sibylline Oracles which include the Book of Revelation ascribed to John Nelson Darby , the apocryphal Apocalypse of Peter , and the 2 Esdras .
+[[Book_of_Daniel|m.01d4j]]
+[[Book_of_Ezekiel|m.01dsp]]
+[[Christian_views_on_the_Old_Covenant|m.02x2qy4]]
+[[Sibylline_Oracles|m.029b0k]]
+[[Book_of_Revelation|m.01dmz]]
+[[John_Nelson_Darby|m.0jn9m]]
+[[Apocalypse_of_Peter|m.02qzgb]]
+[[2_Esdras|m.041tt9]]
+Frase relazionale: of prophecy such as Book of Daniel and Book of Ezekiel are given new Christian views on the Old Covenant in this tradition , while in apocalyptic 
+Fatto 1: of prophecy such as Book of Daniel and Book of Ezekiel are given new Christian views on the Old Covenant in this tradition , while in apocalyptic  [[Sibylline_Oracles|m.029b0k]]
+
+
+Frase Iniziale: Post-Exilic Hebrew books of prophecy such as Book of Daniel and Book of Ezekiel are given new Christian views on the Old Covenant in this tradition , while in apocalyptic literature appear in the Judeo-Christian Sibylline Oracles which include the Book of Revelation ascribed to John Nelson Darby , the apocryphal Apocalypse of Peter , and the 2 Esdras .
+[[Book_of_Daniel|m.01d4j]]
+[[Book_of_Ezekiel|m.01dsp]]
+[[Christian_views_on_the_Old_Covenant|m.02x2qy4]]
+[[Sibylline_Oracles|m.029b0k]]
+[[Book_of_Revelation|m.01dmz]]
+[[John_Nelson_Darby|m.0jn9m]]
+[[Apocalypse_of_Peter|m.02qzgb]]
+[[2_Esdras|m.041tt9]]
+Frase relazionale: Post-Exilic Hebrew books of prophecy such as Book of 
+Fatto 1: Post-Exilic Hebrew books of prophecy such as Book of  [[Book_of_Daniel|m.01d4j]]
+Fatto 2: Post-Exilic Hebrew books of prophecy such as Book of  [[Book_of_Daniel|m.01d4j]]
+Fatto 3: Post-Exilic Hebrew books of prophecy such as Book of  [[Book_of_Ezekiel|m.01dsp]]
+Fatto 4: Post-Exilic Hebrew books of prophecy such as Book of  [[Book_of_Revelation|m.01dmz]]
+Fatto 5: Post-Exilic Hebrew books of prophecy such as Book of  [[Book_of_Ezekiel|m.01dsp]]
+
+
+Frase Iniziale: Post-Exilic Hebrew books of prophecy such as Book of Daniel and Book of Ezekiel are given new Christian views on the Old Covenant in this tradition , while in apocalyptic literature appear in the Judeo-Christian Sibylline Oracles which include the Book of Revelation ascribed to John Nelson Darby , the apocryphal Apocalypse of Peter , and the 2 Esdras .
+[[Book_of_Daniel|m.01d4j]]
+[[Book_of_Ezekiel|m.01dsp]]
+[[Christian_views_on_the_Old_Covenant|m.02x2qy4]]
+[[Sibylline_Oracles|m.029b0k]]
+[[Book_of_Revelation|m.01dmz]]
+[[John_Nelson_Darby|m.0jn9m]]
+[[Apocalypse_of_Peter|m.02qzgb]]
+[[2_Esdras|m.041tt9]]
+Frase relazionale: of prophecy such as Book of Daniel and Book of Ezekiel are given new Christian views on the Old Covenant in this tradition , while in apocalyptic literature appear in the Judeo-Christian Sibylline Oracles which include the Book of Revelation ascribed to 
+Fatto 1: of prophecy such as Book of Daniel and Book of Ezekiel are given new Christian views on the Old Covenant in this tradition , while in apocalyptic literature appear in the Judeo-Christian Sibylline Oracles which include the Book of Revelation ascribed to  [[John_Nelson_Darby|m.0jn9m]]
+Fatto 2: of prophecy such as Book of Daniel and Book of Ezekiel are given new Christian views on the Old Covenant in this tradition , while in apocalyptic literature appear in the Judeo-Christian Sibylline Oracles which include the Book of Revelation ascribed to  [[Apocalypse_of_Peter|m.02qzgb]]
+Fatto 3: of prophecy such as Book of Daniel and Book of Ezekiel are given new Christian views on the Old Covenant in this tradition , while in apocalyptic literature appear in the Judeo-Christian Sibylline Oracles which include the Book of Revelation ascribed to  [[2_Esdras|m.041tt9]]
+
+
+Frase Iniziale: The July 1997 issue of Jane's International Defence Review confirmed that after the collapse of the USSR , US and German analysts had a chance to examine Soviet-made T-72 tanks equipped with Kontakt-5 ERA , and they proved impenetrable to most modern US and German tank projectiles ; : this sparked the development of more modern Western tank ammunition , such as the M829 and M829 .
+[[Jane's_International_Defence_Review|m.0c_xd4]]
+[[T-72|m.019frm]]
+[[M829|m.0b69dq]]
+[[M829|m.0b69dq]]
+Frase relazionale: The July 1997 issue of Jane 's International Defence Review confirmed that after the collapse of the USSR , US and German analysts had a chance to examine Soviet-made T-72 tanks equipped with Kontakt-5 ERA , and they proved impenetrable to most modern US and German tank projectiles ; : this sparked the development of more modern Western tank ammunition , such as the 
+Fatto 1: The July 1997 issue of Jane 's International Defence Review confirmed that after the collapse of the USSR , US and German analysts had a chance to examine Soviet-made T-72 tanks equipped with Kontakt-5 ERA , and they proved impenetrable to most modern US and German tank projectiles ; : this sparked the development of more modern Western tank ammunition , such as the  [[M829|m.0b69dq]]
+Fatto 2: The July 1997 issue of Jane 's International Defence Review confirmed that after the collapse of the USSR , US and German analysts had a chance to examine Soviet-made T-72 tanks equipped with Kontakt-5 ERA , and they proved impenetrable to most modern US and German tank projectiles ; : this sparked the development of more modern Western tank ammunition , such as the  [[M829|m.0b69dq]]
+Fatto 3: The July 1997 issue of Jane 's International Defence Review confirmed that after the collapse of the USSR , US and German analysts had a chance to examine Soviet-made T-72 tanks equipped with Kontakt-5 ERA , and they proved impenetrable to most modern US and German tank projectiles ; : this sparked the development of more modern Western tank ammunition , such as the  [[M829|m.0b69dq]]
+Fatto 4: The July 1997 issue of Jane 's International Defence Review confirmed that after the collapse of the USSR , US and German analysts had a chance to examine Soviet-made T-72 tanks equipped with Kontakt-5 ERA , and they proved impenetrable to most modern US and German tank projectiles ; : this sparked the development of more modern Western tank ammunition , such as the  [[M829|m.0b69dq]]
+
+
+Frase Iniziale: The July 1997 issue of Jane's International Defence Review confirmed that after the collapse of the USSR , US and German analysts had a chance to examine Soviet-made T-72 tanks equipped with Kontakt-5 ERA , and they proved impenetrable to most modern US and German tank projectiles ; : this sparked the development of more modern Western tank ammunition , such as the M829 and M829 .
+[[Jane's_International_Defence_Review|m.0c_xd4]]
+[[T-72|m.019frm]]
+[[M829|m.0b69dq]]
+[[M829|m.0b69dq]]
+Frase relazionale: had a chance to examine Soviet-made T-72 tanks equipped with Kontakt-5 ERA , and they proved impenetrable to most modern 
+
+
+Frase Iniziale: ITunes includes sound processing features , such as Equalization (audio) , sound enhancement and Crossfade  .
+[[ITunes|m.019g58]]
+[[Equalization_(audio)|m.0glnxry]]
+Frase relazionale: includes sound processing features , such as 
+Fatto 1: [[ITunes|m.019g58]] includes sound processing features , such as  [[Equalization_(audio)|m.0glnxry]]
+
+
+Frase Iniziale: now TV serves Hong Kong with more than 190 channels of local , Asian and international programming , including premium content such as the English Premier League , Spanish La Liga , Italian Serie A , French Ligue 1 , J-League , French Open , ATP World Tour , and World Snooker Tour .
+[[Hong_Kong|m.03h64]]
+Frase relazionale: serves Hong Kong with more than 190 channels of local , Asian and international programming , including premium content such as the 
+
+
+Frase Iniziale: Rajneesh developed other active meditation techniques , such as the Kundalini shaking meditation and the Nadabrahma humming meditation , which are less animated , although they also include physical activity of one sort or another .
+[[Rajneesh|m.019fxc]]
+Frase relazionale: Rajneesh developed other active meditation techniques , such as the 
+
+
+Frase Iniziale: Rajneesh developed other active meditation techniques , such as the Kundalini shaking meditation and the Nadabrahma humming meditation , which are less animated , although they also include physical activity of one sort or another .
+[[Rajneesh|m.019fxc]]
+Frase relazionale: , such as the Kundalini shaking meditation and the Nadabrahma humming meditation , which are less animated , although they also include physical activity of one 
+
+
+Frase Iniziale: Rajneesh believed humanity was threatened with extinction due to over-population , impending nuclear holocaust and diseases such as AIDS , and thought many of society 's ills could be remedied by scientific means .
+[[Rajneesh|m.019fxc]]
+[[AIDS|m.0d19y2]]
+Frase relazionale: Rajneesh believed humanity was threatened with extinction due to 
+
+
+Frase Iniziale: In 1991 , an influential Indian newspaper counted Rajneesh , along with figures such as Gautama Buddha and Mahatma Gandhi , among the ten people who had most changed India 's destiny ; in Rajneesh 's case , by liberating the minds of future generations from the shackles of religiosity and conformism .
+[[Rajneesh|m.019fxc]]
+[[Gautama_Buddha|m.015k7]]
+[[Mahatma_Gandhi|m.04xfb]]
+[[Rajneesh|m.019fxc]]
+Frase relazionale: In 1991 , an influential Indian newspaper counted Rajneesh , along with figures such as 
+Fatto 1: In 1991 , an influential Indian newspaper counted Rajneesh , along with figures such as  [[Gautama_Buddha|m.015k7]]
+Fatto 2: In 1991 , an influential Indian newspaper counted Rajneesh , along with figures such as  [[Mahatma_Gandhi|m.04xfb]]
+
+
+Frase Iniziale: In 1991 , an influential Indian newspaper counted Rajneesh , along with figures such as Gautama Buddha and Mahatma Gandhi , among the ten people who had most changed India 's destiny ; in Rajneesh 's case , by liberating the minds of future generations from the shackles of religiosity and conformism .
+[[Rajneesh|m.019fxc]]
+[[Gautama_Buddha|m.015k7]]
+[[Mahatma_Gandhi|m.04xfb]]
+[[Rajneesh|m.019fxc]]
+Frase relazionale: In 
+
+
+Frase Iniziale: In 1991 , an influential Indian newspaper counted Rajneesh , along with figures such as Gautama Buddha and Mahatma Gandhi , among the ten people who had most changed India 's destiny ; in Rajneesh 's case , by liberating the minds of future generations from the shackles of religiosity and conformism .
+[[Rajneesh|m.019fxc]]
+[[Gautama_Buddha|m.015k7]]
+[[Mahatma_Gandhi|m.04xfb]]
+[[Rajneesh|m.019fxc]]
+Frase relazionale: In 1991 , an influential Indian newspaper counted Rajneesh , along with figures such as Gautama Buddha and Mahatma Gandhi , among the ten people who had most changed India 's destiny ; in Rajneesh 's case , by liberating the minds of future 
+
+
+Frase Iniziale: Iceland achieved its overall aims , to the detriment of the already declining British fisheries , severely affecting the economies of northern fishing ports in the United Kingdom , such as Grimsby , Kingston upon Hull , and Fleetwood .
+[[Iceland|m.03rj0]]
+[[United_Kingdom|m.07ssc]]
+[[Grimsby|m.01l5rz]]
+[[Kingston_upon_Hull|m.0fm2_]]
+[[Fleetwood|m.03c2cv]]
+Frase relazionale: achieved its overall aims , to the 
+Fatto 1: [[Iceland|m.03rj0]] achieved its overall aims , to the  [[Kingston_upon_Hull|m.0fm2_]]
+Fatto 2: [[Iceland|m.03rj0]] achieved its overall aims , to the  [[Fleetwood|m.03c2cv]]
+
+
+Frase Iniziale: This partnership was the source of most of Traffic (band) 's material , including popular songs such as Paper Sun and The Low Spark of High-Heeled Boys (song) , and outlived the band , producing several songs for Steve Winwood and Jim Capaldi 's solo albums .
+[[Traffic_(band)|m.016hy9]]
+[[Paper_Sun|m.025_0qb]]
+[[The_Low_Spark_of_High-Heeled_Boys_(song)|m.055nq0]]
+[[Steve_Winwood|m.01vn35l]]
+[[Jim_Capaldi|m.01k1jyt]]
+Frase relazionale: was the source of most of Traffic -LRB- band -RRB- 's material , including popular songs such as 
+Fatto 1: was the source of most of Traffic -LRB- band -RRB- 's material , including popular songs such as  [[Paper_Sun|m.025_0qb]]
+Fatto 2: was the source of most of Traffic -LRB- band -RRB- 's material , including popular songs such as  [[The_Low_Spark_of_High-Heeled_Boys_(song)|m.055nq0]]
+
+
+Frase Iniziale: This partnership was the source of most of Traffic (band) 's material , including popular songs such as Paper Sun and The Low Spark of High-Heeled Boys (song) , and outlived the band , producing several songs for Steve Winwood and Jim Capaldi 's solo albums .
+[[Traffic_(band)|m.016hy9]]
+[[Paper_Sun|m.025_0qb]]
+[[The_Low_Spark_of_High-Heeled_Boys_(song)|m.055nq0]]
+[[Steve_Winwood|m.01vn35l]]
+[[Jim_Capaldi|m.01k1jyt]]
+Frase relazionale: was the source of most of Traffic -LRB- band -RRB- 's material , including popular 
+
+
+Frase Iniziale: This partnership was the source of most of Traffic (band) 's material , including popular songs such as Paper Sun and The Low Spark of High-Heeled Boys (song) , and outlived the band , producing several songs for Steve Winwood and Jim Capaldi 's solo albums .
+[[Traffic_(band)|m.016hy9]]
+[[Paper_Sun|m.025_0qb]]
+[[The_Low_Spark_of_High-Heeled_Boys_(song)|m.055nq0]]
+[[Steve_Winwood|m.01vn35l]]
+[[Jim_Capaldi|m.01k1jyt]]
+Frase relazionale: was the source of most of Traffic -LRB- band -RRB- 's material , including popular songs such as Paper Sun and The Low Spark of High-Heeled Boys -LRB- song -RRB- , and outlived the band , producing several songs for 
+Fatto 1: was the source of most of Traffic -LRB- band -RRB- 's material , including popular songs such as Paper Sun and The Low Spark of High-Heeled Boys -LRB- song -RRB- , and outlived the band , producing several songs for  [[Steve_Winwood|m.01vn35l]]
+Fatto 2: was the source of most of Traffic -LRB- band -RRB- 's material , including popular songs such as Paper Sun and The Low Spark of High-Heeled Boys -LRB- song -RRB- , and outlived the band , producing several songs for  [[Jim_Capaldi|m.01k1jyt]]
+
+
+Frase Iniziale: Propranolol is marketed in India under brand names such as Ciplar and Ciplar LA by Cipla , also other brands from AstraZeneca and Wyeth under brand names Inderal , Inderal LA , Avlocardyl , Deralin , Dociton , Inderalici , InnoPran XL , Sumial , Anaprilinum , and Bedranol SR  .
+[[Propranolol|m.019dfq]]
+[[Cipla|m.02t7g8]]
+[[AstraZeneca|m.028zbs]]
+[[Wyeth|m.084v5p]]
+Frase relazionale: is marketed in India under brand names such as 
+
+
+Frase Iniziale: In the 1960s and 1970s , scholars such as Robert N. Bellah and Martin E. Marty studied civil religion as a cultural phenomenon , attempting to identify the actual tenets of civil religion in the United States of America , or to study civil religion as a phenomenon of cultural anthropology .
+[[Robert_N._Bellah|m.06zhmc]]
+[[Martin_E._Marty|m.05f8fq]]
+Frase relazionale: In the 1960s and 1970s , scholars such as 
+Fatto 1: In the 1960s and 1970s , scholars such as  [[Robert_N._Bellah|m.06zhmc]]
+Fatto 2: In the 1960s and 1970s , scholars such as  [[Martin_E._Marty|m.05f8fq]]
+
+
+Frase Iniziale: In the 1960s and 1970s , scholars such as Robert N. Bellah and Martin E. Marty studied civil religion as a cultural phenomenon , attempting to identify the actual tenets of civil religion in the United States of America , or to study civil religion as a phenomenon of cultural anthropology .
+[[Robert_N._Bellah|m.06zhmc]]
+[[Martin_E._Marty|m.05f8fq]]
+Frase relazionale: 
+
+

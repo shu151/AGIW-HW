@@ -2,15 +2,12 @@ package phrasesExpansion;
 
 import java.io.*;
 
-import extractor.Extractor;
 import extractor.FactsListExtractor;
 import fileManagement.FileInteractor;
 import parser.TSVSentencesUtility;
 import prefilter.ParallelFilter;
-import relationIdentifier.RelationalIdentifier;
 import splitter.PhraseSplitter;
 
-import java.util.LinkedList;
 import java.util.List;
 
 public class mainPhrasesAnalysis {
@@ -24,23 +21,27 @@ public class mainPhrasesAnalysis {
 		
 		FactsListExtractor fe= new FactsListExtractor();
 		fe.do_extractFacts();
-//		refused();
+		splitter();
 	}
 
-	// da vedere
-	private static void refused() throws UnsupportedEncodingException, FileNotFoundException {
-		List<List<String>>result=new LinkedList<List<String>>();
-		TSVSentencesUtility tSVSentencesUtility = new TSVSentencesUtility();
-		List<String[]> allRows = tSVSentencesUtility.getAllSentencesFromTSV("Refused.tsv");
-		Extractor eb = new Extractor();
+	private static void splitter() throws UnsupportedEncodingException, FileNotFoundException, IOException {
+		TSVSentencesUtility t = new TSVSentencesUtility();
+		List<String[]> allRows = t.getAllSentencesFromTSV("evaluationcorpus.tsv");
+
 		FileInteractor f = new FileInteractor();
-		RelationalIdentifier ri = new RelationalIdentifier();
-		
+
 		PhraseSplitter splitter = new PhraseSplitter();
 		for(String[] phrase : allRows){
+			System.out.println("_______");
+			f.writeFile("_______", "splitted.txt");
 			List<String> phraseSplitted = splitter.splitPhrase(phrase[3]);
-//			f.writeFile(relation,"refusedPhrase");
+			System.out.println(phrase[3]);
+			f.writeFile(phrase[3], "splitted.txt");
+
+			for (String string : phraseSplitted) {
+				System.out.println(string);
+				f.writeFile(string, "splitted.txt");
+			}
 		}
 	}
 }
-

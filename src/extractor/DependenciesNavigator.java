@@ -142,18 +142,14 @@ public class DependenciesNavigator {
 
 			int elementdepPosition = Integer.parseInt(previousElementDependent.getAttributes().getNamedItem("idx").getNodeValue());
 			int elementgovPosition = Integer.parseInt(previousElementGovernor.getAttributes().getNamedItem("idx").getNodeValue());
-			//			System.out.println("EL DEP: "+previousElementDependent.getTextContent());
-			//			System.out.println("EL GOV: "+previousElementGovernor.getTextContent());
 			boolean sameNodeGovernor = inputPosition==elementgovPosition;
 			boolean sameNodeDependent = inputPosition==elementdepPosition;
 
 			if(sameNodeGovernor && (inputPosition>elementdepPosition)){
 				previousElements.add(previousElementDependent);
-				System.out.println("EL PREC: "+previousElementDependent.getTextContent());
 			}
 			if(sameNodeDependent && (inputPosition>elementgovPosition)){
 				previousElements.add(previousElementGovernor);
-				System.out.println("EL PREC2: "+previousElementGovernor.getTextContent());
 			}
 		}
 		return previousElements;
@@ -242,11 +238,9 @@ public class DependenciesNavigator {
 						if (supPosition>startPosition)
 							startPosition = supPosition;
 					}
-					System.out.println("CIARRIVA");
 				}
 				else{
 					startPosition = startPositionNsubj(el);
-					System.out.println("CIARRIVA 2");
 				}
 			}
 		}

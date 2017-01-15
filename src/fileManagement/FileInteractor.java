@@ -47,15 +47,15 @@ public class FileInteractor {
 
 
 		FileInteractor f = new FileInteractor();
-		f.writeFile("Frase Iniziale: "+cleanPhrase, "acceptedPhrase5");
+		f.writeFile("Frase Iniziale: "+cleanPhrase, "phrasesExtracted");
 		for (String entity : phraseEntitiesList) {
-			f.writeFile(entity, "acceptedPhrase5");
+			f.writeFile(entity, "phrasesExtracted");
 		}
 		String relation = "";
 		for (String word : relationProv) {
 			relation = relation+word+" ";
 		}
-		f.writeFile("Frase relazionale: "+relation, "acceptedPhrase5");
+		f.writeFile("Frase relazionale: "+relation, "phrasesExtracted");
 		RelationalIdentifier ri = new RelationalIdentifier();
 		String fatto = "";
 		int i = 1;
@@ -65,10 +65,10 @@ public class FileInteractor {
 				fatto = fatto+entityListNsubj.get(0)+" ";
 			fatto = fatto+relation+" ";
 			fatto = fatto+string;
-			f.writeFile("Fatto "+i+": "+fatto, "acceptedPhrase5");
+			f.writeFile("Fatto "+i+": "+fatto, "phrasesExtracted");
 			i++;
 		}
-		f.writeFile("\n", "acceptedPhrase5");
+		f.writeFile("\n", "phrasesExtracted");
 
 		return relation;
 	}

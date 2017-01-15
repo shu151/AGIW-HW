@@ -30,11 +30,25 @@ public class PhraseSplitter {
 		for (int i = 0; i < acc.size()-1; i++) {
 			String starting_index = acc.get(i).split(" ")[1];
 			String ending_index = acc.get(i+1).split(" ")[0];
-			result.add(phrase.substring(Integer.parseInt(starting_index)+1, Integer.parseInt(ending_index)-1));
+			result.add(phrase.substring(Integer.parseInt(starting_index), Integer.parseInt(ending_index)).trim());
 		}
-		String last_index = acc.get(acc.size()-1).split(" ")[1];
-		result.add(phrase.substring(Integer.parseInt(last_index)+1));
+//		String last_index = acc.get(acc.size()-1).split(" ")[1];
+		//		System.out.println(last_index);
+//		if(Integer.parseInt(last_index) != phrase.length())
+//			result.add(phrase.substring(Integer.parseInt(last_index)+1));
 
-		return result;
+		List<String> ret = new ArrayList<>();
+		String s;
+
+		for (int i = 0; i < Integer.parseInt(result.get(1)) - 1; i++) {
+			s = "";
+			s = s + result.get(2 + i) + " ";
+			s = s + result.get(2 + Integer.parseInt(result.get(1)) + i);
+			s = s + " " + result.get(2 + i + 1);
+
+			ret.add(s);
+		}
+
+		return ret;
 	}
 }
