@@ -6,8 +6,6 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.sun.xml.internal.ws.util.StringUtils;
-
 public class PhraseSplitter {
 
 	private Pattern entity_regex = Pattern.compile("\\[\\[[A-Za-z0-9\\p{Punct}]+\\|m\\.[a-z0-9\\p{Punct}]+\\]\\]");
