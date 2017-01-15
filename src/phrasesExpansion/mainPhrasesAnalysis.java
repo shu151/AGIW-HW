@@ -38,10 +38,10 @@ public class mainPhrasesAnalysis {
 				List<String> filtPhraseWithEntities = ls.removeNoWordContent(phrase[3]);
 				List<String> ar = eb.extractFacts(filtPhraseWithEntities);
 				result.add(ar);
-				for(String relation : ar){
-					f.writeFile(relation,"acceptedPhrase2");
-					f.writeFile(ri.isRelational(relation)+"\n","acceptedPhrase2");
-				}
+//				for(String relation : ar){
+//					f.writeFile(relation,"acceptedPhrase2");
+//					f.writeFile(ri.isRelational(relation)+"\n","acceptedPhrase2");
+//				}
 			}
 			catch(Exception e){
 				e.printStackTrace();

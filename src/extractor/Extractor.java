@@ -12,6 +12,7 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 import parser.XMLPars;
+import relationIdentifier.RelationalIdentifier;
 import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
 import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
@@ -19,6 +20,7 @@ import edu.stanford.nlp.semgraph.SemanticGraph;
 import edu.stanford.nlp.semgraph.SemanticGraphCoreAnnotations;
 import edu.stanford.nlp.util.CoreMap;
 import edu.stanford.nlp.util.PropertiesUtils;
+import fileManagement.FileInteractor;
 
 
 public class Extractor {
@@ -111,7 +113,7 @@ public class Extractor {
 			Element governor = (Element) currentElement.getElementsByTagName("governor").item(0);
 			int governorPosition = Integer.parseInt(governor.getAttributes().getNamedItem("idx").getNodeValue());
 			Element dependent = (Element) currentElement.getElementsByTagName("dependent").item(0);
-			int dependentPosition = Integer.parseInt(governor.getAttributes().getNamedItem("idx").getNodeValue());
+			int dependentPosition = Integer.parseInt(dependent.getAttributes().getNamedItem("idx").getNodeValue());
 			if (governorPosition==position)
 				element = governor;
 			else if (dependentPosition==position)
@@ -302,9 +304,9 @@ public class Extractor {
 		
 	public List<String> extractFacts(List<String> filtPhraseWithEntities) {
 		
-		List<String> entity = new ArrayList<>();
+		List<String> entities = new ArrayList<>();
 		for (int i = 1; i<filtPhraseWithEntities.size() ;i++) {
-			entity.add(filtPhraseWithEntities.get(i));
+			entities.add(filtPhraseWithEntities.get(i));
 		}
 		String filtphrase = filtPhraseWithEntities.get(0);
 		Map<String,List<List<String>>> relationsMap = new HashMap<>();
@@ -360,6 +362,29 @@ public class Extractor {
 						System.out.println("POSIZIONE FINALE: "+finalPosition);
 						System.out.println("fine");
 						
+
+						List<String> entityListDep = new ArrayList<>();
+						for (String nameDepNmod : dependentsNmodName) {
+							for (String nameEntity : entities){
+								if (nameEntity.contains(nameDepNmod))
+									entityListDep.add(nameEntity);
+							}
+						}
+						List<String> entityListNsubj = new ArrayList<>();
+						for (String nameDepNsubj : dependentsNsubjName) {
+							for (String nameEntity : entities){
+								if (nameEntity.contains(nameDepNsubj)){
+									entityListNsubj.add(nameEntity);
+									System.out.println(nameEntity);
+								}
+//								System.out.println(nameDepNsubj);
+//								System.out.println(nameEntity);
+							}
+						}
+						for (String string : entityListNsubj) {
+							System.out.println("prova"+string);
+						}
+						
 						// stampa frase
 						System.out.println("INIZIO FRASE");
 						List<String> relationProv = new ArrayList<>();
@@ -376,24 +401,32 @@ public class Extractor {
 								}
 							}
 						}
+						FileInteractor f = new FileInteractor();
+						f.writeFile("Frase Iniziale: "+filtphrase, "acceptedPhrase4");
+						for (String entity : entities) {
+							f.writeFile(entity, "acceptedPhrase4");
+						}
 						String relation = "";
 						for (String word : relationProv) {
 							relation = relation+word+" ";
 						}
-						List<String> entityListDep = new ArrayList<>();
-						for (String nameDepNmod : dependentsNmodName) {
-							for (String nameEntity : entity){
-								if (nameEntity.contains(nameDepNmod))
-									entityListDep.add(nameEntity);
-							}
+						f.writeFile("Frase relazionale: "+relation, "acceptedPhrase4");
+						RelationalIdentifier ri = new RelationalIdentifier();
+//						ri.isRelational(relation)
+						String fatto = "";
+						int i = 1;
+						for (String string : entityListDep) {
+							fatto = "";
+							fatto = fatto+entityListNsubj.get(0)+" ";
+							fatto = fatto+relation+" ";
+							fatto = fatto+string;
+							f.writeFile("Fatto "+i+": "+fatto, "acceptedPhrase4");
+							i++;
 						}
-						List<String> entityListNsubj = new ArrayList<>();
-						for (String nameDepNsubj : dependentsNsubjName) {
-							for (String nameEntity : entity){
-								if (nameEntity.contains(nameDepNsubj))
-									entityListNsubj.add(nameEntity);
-							}
-						}
+						f.writeFile("\n", "acceptedPhrase4");
+						
+						
+						
 						List<List<String>> subjDep = new ArrayList<>();
 						relationsMap.put(relation, subjDep);
 						relations.add(relation);

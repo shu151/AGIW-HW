@@ -13,7 +13,7 @@ public class main2 {
 		System.out.println(ri.isRelational("is a supporter of many teams such as"));
 		System.out.println(ri.isRelational("married some famous women such as "));
 		System.out.println(ri.isRelational("also employed the form in smaller vocal"));
-		System.out.println(ri.isRelational("is marketed in India under brand names such as"));
+		System.out.println(ri.isRelational("is marketed "));
 		
 	}
 }
